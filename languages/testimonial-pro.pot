@@ -1,0 +1,3379 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Testimonial Pro\n"
+"POT-Creation-Date: 2020-09-30 19:28+0600\n"
+"PO-Revision-Date: 2020-09-30 19:28+0600\n"
+"Last-Translator: \n"
+"Language-Team: ShapedPlugin(support@shapedplugin.com)\n"
+"Language: en\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 2.2.4\n"
+"X-Poedit-Basepath: ..\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __;_e;_x;esc_html__;esc_html_e;esc_html_x;esc_attr__;"
+"esc_attr_e;esc_attr_x\n"
+"X-Poedit-SearchPath-0: admin\n"
+"X-Poedit-SearchPath-1: class\n"
+"X-Poedit-SearchPath-2: includes\n"
+"X-Poedit-SearchPath-3: index.php\n"
+"X-Poedit-SearchPath-4: languages\n"
+"X-Poedit-SearchPath-5: public\n"
+"X-Poedit-SearchPath-6: testimonial-pro.php\n"
+"X-Poedit-SearchPath-7: uninstall.php\n"
+
+#: admin/views/class-testimonial-pro-metaboxs.php:27
+msgid "Shortcode Options"
+msgstr ""
+
+#: admin/views/class-testimonial-pro-metaboxs.php:39
+msgid "General Settings"
+msgstr ""
+
+#: admin/views/class-testimonial-pro-metaboxs.php:46
+msgid "Layout Preset"
+msgstr ""
+
+#: admin/views/class-testimonial-pro-metaboxs.php:47
+msgid "Select a layout to display the testimonials."
+msgstr ""
+
+#: admin/views/class-testimonial-pro-metaboxs.php:52
+msgid "Slider"
+msgstr ""
+
+#: admin/views/class-testimonial-pro-metaboxs.php:56
+msgid "Grid"
+msgstr ""
+
+#: admin/views/class-testimonial-pro-metaboxs.php:60
+#: admin/views/class-testimonial-pro-metaboxs.php:85
+msgid "Masonry"
+msgstr ""
+
+#: admin/views/class-testimonial-pro-metaboxs.php:64
+msgid "List"
+msgstr ""
+
+#: admin/views/class-testimonial-pro-metaboxs.php:68
+#: admin/views/class-testimonial-pro-metaboxs.php:1466
+#: admin/views/class-testimonial-pro-metaboxs.php:2195
+msgid "Filter"
+msgstr ""
+
+#: admin/views/class-testimonial-pro-metaboxs.php:76
+msgid "Filter Style"
+msgstr ""
+
+#: admin/views/class-testimonial-pro-metaboxs.php:77
+msgid "Select a filter style."
+msgstr ""
+
+#: admin/views/class-testimonial-pro-metaboxs.php:81
+msgid "Even"
+msgstr ""
+
+#: admin/views/class-testimonial-pro-metaboxs.php:98
+msgid "Select Theme"
+msgstr ""
+
+#: admin/views/class-testimonial-pro-metaboxs.php:99
+msgid "Select which theme you want to display."
+msgstr ""
+
+#: admin/views/class-testimonial-pro-metaboxs.php:101
+msgid "Theme One"
+msgstr ""
+
+#: admin/views/class-testimonial-pro-metaboxs.php:102
+msgid "Theme Two"
+msgstr ""
+
+#: admin/views/class-testimonial-pro-metaboxs.php:103
+msgid "Theme Three"
+msgstr ""
+
+#: admin/views/class-testimonial-pro-metaboxs.php:104
+msgid "Theme Four"
+msgstr ""
+
+#: admin/views/class-testimonial-pro-metaboxs.php:105
+msgid "Theme Five"
+msgstr ""
+
+#: admin/views/class-testimonial-pro-metaboxs.php:106
+msgid "Theme Six"
+msgstr ""
+
+#: admin/views/class-testimonial-pro-metaboxs.php:107
+msgid "Theme Seven"
+msgstr ""
+
+#: admin/views/class-testimonial-pro-metaboxs.php:108
+msgid "Theme Eight"
+msgstr ""
+
+#: admin/views/class-testimonial-pro-metaboxs.php:109
+msgid "Theme Nine"
+msgstr ""
+
+#: admin/views/class-testimonial-pro-metaboxs.php:110
+msgid "Theme Ten"
+msgstr ""
+
+#: admin/views/class-testimonial-pro-metaboxs.php:118
+msgid "Filter Testimonials"
+msgstr ""
+
+#: admin/views/class-testimonial-pro-metaboxs.php:119
+msgid "Select an option to display the testimonials."
+msgstr ""
+
+#: admin/views/class-testimonial-pro-metaboxs.php:121
+msgid "Latest"
+msgstr ""
+
+#: admin/views/class-testimonial-pro-metaboxs.php:122
+#: admin/views/class-testimonial-pro-metaboxs.php:2252
+#: admin/views/class-testimonial-pro-metaboxs.php:2526
+#: admin/views/class-testimonial-pro-metaboxs.php:2533 testimonial-pro.php:437
+msgid "Groups"
+msgstr ""
+
+#: admin/views/class-testimonial-pro-metaboxs.php:123
+msgid "Specific"
+msgstr ""
+
+#: admin/views/class-testimonial-pro-metaboxs.php:124
+msgid "Exclude"
+msgstr ""
+
+#: admin/views/class-testimonial-pro-metaboxs.php:131
+msgid "Select Group"
+msgstr ""
+
+#: admin/views/class-testimonial-pro-metaboxs.php:132
+msgid "Choose the group(s) to show the testimonial from."
+msgstr ""
+
+#: admin/views/class-testimonial-pro-metaboxs.php:143
+msgid "Choose Group(s)"
+msgstr ""
+
+#: admin/views/class-testimonial-pro-metaboxs.php:154
+msgid "Group Relation Type"
+msgstr ""
+
+#: admin/views/class-testimonial-pro-metaboxs.php:155
+msgid "Select a relation type for group."
+msgstr ""
+
+#: admin/views/class-testimonial-pro-metaboxs.php:158
+msgid "IN"
+msgstr ""
+
+#: admin/views/class-testimonial-pro-metaboxs.php:159
+msgid "AND"
+msgstr ""
+
+#: admin/views/class-testimonial-pro-metaboxs.php:160
+msgid "NOT IN"
+msgstr ""
+
+#: admin/views/class-testimonial-pro-metaboxs.php:162
+msgid ""
+"IN - Show testimonials which associate with one or more terms<br>AND - Show "
+"testimonials which match all terms<br/>NOT IN - Show testimonials which "
+"don't match the terms"
+msgstr ""
+
+#: admin/views/class-testimonial-pro-metaboxs.php:169
+msgid "Specific Testimonial(s)"
+msgstr ""
+
+#: admin/views/class-testimonial-pro-metaboxs.php:170
+msgid "Choose the specific testimonial(s) to display."
+msgstr ""
+
+#: admin/views/class-testimonial-pro-metaboxs.php:181
+msgid "Choose Testimonial(s)"
+msgstr ""
+
+#: admin/views/class-testimonial-pro-metaboxs.php:187
+#: admin/views/class-testimonial-pro-metaboxs.php:198
+msgid "Exclude Testimonial(s)"
+msgstr ""
+
+#: admin/views/class-testimonial-pro-metaboxs.php:188
+msgid "Exlude the testimonial(s)."
+msgstr ""
+
+#: admin/views/class-testimonial-pro-metaboxs.php:204
+msgid "Limit"
+msgstr ""
+
+#: admin/views/class-testimonial-pro-metaboxs.php:205
+msgid "Limit number of testimonials to show."
+msgstr ""
+
+#: admin/views/class-testimonial-pro-metaboxs.php:212
+msgid "Responsive Column(s)"
+msgstr ""
+
+#: admin/views/class-testimonial-pro-metaboxs.php:213
+msgid "Set number of column(s) in different devices for responsive view."
+msgstr ""
+
+#: admin/views/class-testimonial-pro-metaboxs.php:225
+msgid "Random Order"
+msgstr ""
+
+#: admin/views/class-testimonial-pro-metaboxs.php:226
+msgid "Random order."
+msgstr ""
+
+#: admin/views/class-testimonial-pro-metaboxs.php:232
+msgid "Order By"
+msgstr ""
+
+#: admin/views/class-testimonial-pro-metaboxs.php:233
+msgid "Select an order by option."
+msgstr ""
+
+#: admin/views/class-testimonial-pro-metaboxs.php:235
+msgid "Testimonial ID"
+msgstr ""
+
+#: admin/views/class-testimonial-pro-metaboxs.php:236
+#: admin/views/class-testimonial-pro-metaboxs.php:1188
+#: admin/views/class-testimonial-pro-metaboxs.php:2124 testimonial-pro.php:346
+#: testimonial-pro.php:364 testimonial-pro.php:440
+msgid "Date"
+msgstr ""
+
+#: admin/views/class-testimonial-pro-metaboxs.php:237 testimonial-pro.php:343
+#: testimonial-pro.php:360 testimonial-pro.php:434
+msgid "Title"
+msgstr ""
+
+#: admin/views/class-testimonial-pro-metaboxs.php:238
+msgid "Modified"
+msgstr ""
+
+#: admin/views/class-testimonial-pro-metaboxs.php:239
+msgid "Drag & Drop"
+msgstr ""
+
+#: admin/views/class-testimonial-pro-metaboxs.php:247
+msgid "Order Type"
+msgstr ""
+
+#: admin/views/class-testimonial-pro-metaboxs.php:248
+msgid "Select an order option."
+msgstr ""
+
+#: admin/views/class-testimonial-pro-metaboxs.php:250
+msgid "Ascending"
+msgstr ""
+
+#: admin/views/class-testimonial-pro-metaboxs.php:251
+msgid "Descending"
+msgstr ""
+
+#: admin/views/class-testimonial-pro-metaboxs.php:259
+msgid "Preloader"
+msgstr ""
+
+#: admin/views/class-testimonial-pro-metaboxs.php:260
+msgid "On/off preloader."
+msgstr ""
+
+#: admin/views/class-testimonial-pro-metaboxs.php:266
+msgid "Schema Markup"
+msgstr ""
+
+#: admin/views/class-testimonial-pro-metaboxs.php:267
+msgid "Enable/Disable schema markup."
+msgstr ""
+
+#: admin/views/class-testimonial-pro-metaboxs.php:268
+#: admin/views/class-testimonial-pro-metaboxs.php:1376
+#: admin/views/class-testimonial-pro-metaboxs.php:2905
+msgid "Enable"
+msgstr ""
+
+#: admin/views/class-testimonial-pro-metaboxs.php:269
+#: admin/views/class-testimonial-pro-metaboxs.php:1377
+#: admin/views/class-testimonial-pro-metaboxs.php:2906
+msgid "Disable"
+msgstr ""
+
+#: admin/views/class-testimonial-pro-metaboxs.php:276
+msgid "Item Global Name"
+msgstr ""
+
+#: admin/views/class-testimonial-pro-metaboxs.php:277
+msgid "Type item global name"
+msgstr ""
+
+#: admin/views/class-testimonial-pro-metaboxs.php:279
+msgid ""
+"The item (company or product/service) name that is being reviewed or rated "
+"(not visible on your website, used for search engines). If nothing is set on "
+"the individual testimonial, this will be used as the item reviewed value for "
+"the testimonial. Let them know what your Testimonials are all about!"
+msgstr ""
+
+#: admin/views/class-testimonial-pro-metaboxs.php:293
+msgid "Slider Settings"
+msgstr ""
+
+#: admin/views/class-testimonial-pro-metaboxs.php:300
+msgid "Slider Mode"
+msgstr ""
+
+#: admin/views/class-testimonial-pro-metaboxs.php:301
+msgid "Set a slider mode. Slider Settings are disabled in the ticker mode. "
+msgstr ""
+
+#: admin/views/class-testimonial-pro-metaboxs.php:303
+msgid "Standard"
+msgstr ""
+
+#: admin/views/class-testimonial-pro-metaboxs.php:304
+msgid "Ticker"
+msgstr ""
+
+#: admin/views/class-testimonial-pro-metaboxs.php:312
+msgid "AutoPlay"
+msgstr ""
+
+#: admin/views/class-testimonial-pro-metaboxs.php:313
+msgid "On/Off auto play."
+msgstr ""
+
+#: admin/views/class-testimonial-pro-metaboxs.php:315
+#: admin/views/tp-metabox/fields/switcher/switcher.php:20
+msgid "On"
+msgstr ""
+
+#: admin/views/class-testimonial-pro-metaboxs.php:316
+#: admin/views/tp-metabox/fields/switcher/switcher.php:21
+msgid "Off"
+msgstr ""
+
+#: admin/views/class-testimonial-pro-metaboxs.php:317
+msgid "Off on Mobile"
+msgstr ""
+
+#: admin/views/class-testimonial-pro-metaboxs.php:325
+msgid "AutoPlay Speed"
+msgstr ""
+
+#: admin/views/class-testimonial-pro-metaboxs.php:326
+msgid "Set auto play speed in a millisecond. Default value 3000ms."
+msgstr ""
+
+#: admin/views/class-testimonial-pro-metaboxs.php:329
+#: admin/views/class-testimonial-pro-metaboxs.php:341
+msgid "ms"
+msgstr ""
+
+#: admin/views/class-testimonial-pro-metaboxs.php:339
+msgid "Pagination Speed"
+msgstr ""
+
+#: admin/views/class-testimonial-pro-metaboxs.php:340
+msgid "Set pagination speed in a millisecond. Default value 600ms."
+msgstr ""
+
+#: admin/views/class-testimonial-pro-metaboxs.php:348
+msgid "Slide to Scroll"
+msgstr ""
+
+#: admin/views/class-testimonial-pro-metaboxs.php:349
+msgid "Number of testimonial(s) to scroll at a time."
+msgstr ""
+
+#: admin/views/class-testimonial-pro-metaboxs.php:362
+msgid "Row"
+msgstr ""
+
+#: admin/views/class-testimonial-pro-metaboxs.php:363
+msgid "Set number of row in different devices for responsive view."
+msgstr ""
+
+#: admin/views/class-testimonial-pro-metaboxs.php:376
+msgid "Pause on Hover"
+msgstr ""
+
+#: admin/views/class-testimonial-pro-metaboxs.php:377
+msgid "On/Off slider pause on hover."
+msgstr ""
+
+#: admin/views/class-testimonial-pro-metaboxs.php:383
+msgid "Infinite Loop"
+msgstr ""
+
+#: admin/views/class-testimonial-pro-metaboxs.php:384
+msgid "On/Off infinite loop mode."
+msgstr ""
+
+#: admin/views/class-testimonial-pro-metaboxs.php:391
+msgid "Slider Animation"
+msgstr ""
+
+#: admin/views/class-testimonial-pro-metaboxs.php:392
+msgid "Fade effect works only on single column view."
+msgstr ""
+
+#: admin/views/class-testimonial-pro-metaboxs.php:394
+msgid "Slide"
+msgstr ""
+
+#: admin/views/class-testimonial-pro-metaboxs.php:395
+msgid "Fade"
+msgstr ""
+
+#: admin/views/class-testimonial-pro-metaboxs.php:403
+#: admin/views/tp-metabox/fields/background/background.php:96
+msgid "Direction"
+msgstr ""
+
+#: admin/views/class-testimonial-pro-metaboxs.php:404
+msgid "Slider direction."
+msgstr ""
+
+#: admin/views/class-testimonial-pro-metaboxs.php:406
+msgid "RTL"
+msgstr ""
+
+#: admin/views/class-testimonial-pro-metaboxs.php:407
+msgid "LTR"
+msgstr ""
+
+#: admin/views/class-testimonial-pro-metaboxs.php:414
+#: admin/views/class-testimonial-pro-metaboxs.php:420
+msgid "Navigation"
+msgstr ""
+
+#: admin/views/class-testimonial-pro-metaboxs.php:421
+msgid "Show/Hide slider navigation."
+msgstr ""
+
+#: admin/views/class-testimonial-pro-metaboxs.php:423
+#: admin/views/class-testimonial-pro-metaboxs.php:542
+#: admin/views/class-testimonial-pro-metaboxs.php:638
+#: admin/views/class-testimonial-pro-metaboxs.php:858
+#: admin/views/class-testimonial-pro-metaboxs.php:891
+#: admin/views/class-testimonial-pro-metaboxs.php:943
+#: admin/views/class-testimonial-pro-metaboxs.php:1035
+#: admin/views/class-testimonial-pro-metaboxs.php:1068
+#: admin/views/class-testimonial-pro-metaboxs.php:1140
+#: admin/views/class-testimonial-pro-metaboxs.php:1150
+#: admin/views/class-testimonial-pro-metaboxs.php:1160
+#: admin/views/class-testimonial-pro-metaboxs.php:1170
+#: admin/views/class-testimonial-pro-metaboxs.php:1180
+#: admin/views/class-testimonial-pro-metaboxs.php:1190
+#: admin/views/class-testimonial-pro-metaboxs.php:1214
+#: admin/views/class-testimonial-pro-metaboxs.php:1247
+#: admin/views/class-testimonial-pro-metaboxs.php:1534
+#: admin/views/class-testimonial-pro-metaboxs.php:1795
+msgid "Show"
+msgstr ""
+
+#: admin/views/class-testimonial-pro-metaboxs.php:424
+#: admin/views/class-testimonial-pro-metaboxs.php:543
+#: admin/views/class-testimonial-pro-metaboxs.php:639
+#: admin/views/class-testimonial-pro-metaboxs.php:859
+#: admin/views/class-testimonial-pro-metaboxs.php:892
+#: admin/views/class-testimonial-pro-metaboxs.php:944
+#: admin/views/class-testimonial-pro-metaboxs.php:1036
+#: admin/views/class-testimonial-pro-metaboxs.php:1069
+#: admin/views/class-testimonial-pro-metaboxs.php:1141
+#: admin/views/class-testimonial-pro-metaboxs.php:1151
+#: admin/views/class-testimonial-pro-metaboxs.php:1161
+#: admin/views/class-testimonial-pro-metaboxs.php:1171
+#: admin/views/class-testimonial-pro-metaboxs.php:1181
+#: admin/views/class-testimonial-pro-metaboxs.php:1191
+#: admin/views/class-testimonial-pro-metaboxs.php:1215
+#: admin/views/class-testimonial-pro-metaboxs.php:1248
+#: admin/views/class-testimonial-pro-metaboxs.php:1535
+#: admin/views/class-testimonial-pro-metaboxs.php:1796
+msgid "Hide"
+msgstr ""
+
+#: admin/views/class-testimonial-pro-metaboxs.php:425
+#: admin/views/class-testimonial-pro-metaboxs.php:544
+msgid "Hide on Mobile"
+msgstr ""
+
+#: admin/views/class-testimonial-pro-metaboxs.php:433
+msgid "Select Position"
+msgstr ""
+
+#: admin/views/class-testimonial-pro-metaboxs.php:434
+msgid "Select a position for the navigation arrows."
+msgstr ""
+
+#: admin/views/class-testimonial-pro-metaboxs.php:436
+msgid "Top right"
+msgstr ""
+
+#: admin/views/class-testimonial-pro-metaboxs.php:437
+msgid "Top center"
+msgstr ""
+
+#: admin/views/class-testimonial-pro-metaboxs.php:438
+msgid "Top left"
+msgstr ""
+
+#: admin/views/class-testimonial-pro-metaboxs.php:439
+msgid "Bottom left"
+msgstr ""
+
+#: admin/views/class-testimonial-pro-metaboxs.php:440
+msgid "Bottom center"
+msgstr ""
+
+#: admin/views/class-testimonial-pro-metaboxs.php:441
+msgid "Bottom right"
+msgstr ""
+
+#: admin/views/class-testimonial-pro-metaboxs.php:442
+msgid "Vertically center"
+msgstr ""
+
+#: admin/views/class-testimonial-pro-metaboxs.php:443
+msgid "Vertically center inner"
+msgstr ""
+
+#: admin/views/class-testimonial-pro-metaboxs.php:444
+msgid "Vertically center inner on hover"
+msgstr ""
+
+#: admin/views/class-testimonial-pro-metaboxs.php:452
+msgid "Choose an Icon"
+msgstr ""
+
+#: admin/views/class-testimonial-pro-metaboxs.php:453
+msgid "choose an slider navigation icon."
+msgstr ""
+
+#: admin/views/class-testimonial-pro-metaboxs.php:472
+msgid "Navigation Color"
+msgstr ""
+
+#: admin/views/class-testimonial-pro-metaboxs.php:473
+msgid "Set the navigation color."
+msgstr ""
+
+#: admin/views/class-testimonial-pro-metaboxs.php:475
+#: admin/views/class-testimonial-pro-metaboxs.php:570
+#: admin/views/class-testimonial-pro-metaboxs.php:1013
+#: admin/views/class-testimonial-pro-metaboxs.php:1306
+#: admin/views/class-testimonial-pro-metaboxs.php:1428
+#: admin/views/class-testimonial-pro-metaboxs.php:1503
+#: admin/views/class-testimonial-pro-metaboxs.php:2992
+#: admin/views/tp-metabox/fields/background/background.php:279
+msgid "Color"
+msgstr ""
+
+#: admin/views/class-testimonial-pro-metaboxs.php:476
+#: admin/views/class-testimonial-pro-metaboxs.php:1014
+#: admin/views/class-testimonial-pro-metaboxs.php:1307
+#: admin/views/class-testimonial-pro-metaboxs.php:1429
+#: admin/views/class-testimonial-pro-metaboxs.php:2993
+msgid "Hover Color"
+msgstr ""
+
+#: admin/views/class-testimonial-pro-metaboxs.php:477
+#: admin/views/class-testimonial-pro-metaboxs.php:1308
+#: admin/views/class-testimonial-pro-metaboxs.php:1430
+#: admin/views/class-testimonial-pro-metaboxs.php:1505
+#: admin/views/class-testimonial-pro-metaboxs.php:2994
+msgid "Background"
+msgstr ""
+
+#: admin/views/class-testimonial-pro-metaboxs.php:478
+#: admin/views/class-testimonial-pro-metaboxs.php:1309
+#: admin/views/class-testimonial-pro-metaboxs.php:1431
+#: admin/views/class-testimonial-pro-metaboxs.php:2995
+msgid "Hover Background"
+msgstr ""
+
+#: admin/views/class-testimonial-pro-metaboxs.php:495
+msgid "Navigation Border"
+msgstr ""
+
+#: admin/views/class-testimonial-pro-metaboxs.php:496
+msgid "Set the navigation border."
+msgstr ""
+
+#: admin/views/class-testimonial-pro-metaboxs.php:514
+msgid "Border Radius"
+msgstr ""
+
+#: admin/views/class-testimonial-pro-metaboxs.php:515
+msgid "Set the navigation border radius."
+msgstr ""
+
+#: admin/views/class-testimonial-pro-metaboxs.php:533
+#: admin/views/class-testimonial-pro-metaboxs.php:539
+#: admin/views/class-testimonial-pro-metaboxs.php:1364
+#: admin/views/class-testimonial-pro-metaboxs.php:1374
+msgid "Pagination"
+msgstr ""
+
+#: admin/views/class-testimonial-pro-metaboxs.php:540
+msgid "Show/Hide pagination."
+msgstr ""
+
+#: admin/views/class-testimonial-pro-metaboxs.php:552
+#: admin/views/class-testimonial-pro-metaboxs.php:1272
+#: admin/views/class-testimonial-pro-metaboxs.php:1406
+#: admin/views/class-testimonial-pro-metaboxs.php:1485
+#: admin/views/class-testimonial-pro-metaboxs.php:1612
+#: admin/views/class-testimonial-pro-metaboxs.php:1631
+msgid "Margin"
+msgstr ""
+
+#: admin/views/class-testimonial-pro-metaboxs.php:553
+#: admin/views/class-testimonial-pro-metaboxs.php:1407
+msgid "Set pagination margin."
+msgstr ""
+
+#: admin/views/class-testimonial-pro-metaboxs.php:567
+#: admin/views/class-testimonial-pro-metaboxs.php:1425
+msgid "Pagination Color"
+msgstr ""
+
+#: admin/views/class-testimonial-pro-metaboxs.php:568
+msgid "Set the pagination color."
+msgstr ""
+
+#: admin/views/class-testimonial-pro-metaboxs.php:571
+#: admin/views/class-testimonial-pro-metaboxs.php:1504
+msgid "Active Color"
+msgstr ""
+
+#: admin/views/class-testimonial-pro-metaboxs.php:585
+msgid "Miscellaneous"
+msgstr ""
+
+#: admin/views/class-testimonial-pro-metaboxs.php:590
+msgid "Adaptive Slider Height"
+msgstr ""
+
+#: admin/views/class-testimonial-pro-metaboxs.php:591
+msgid "Dynamically adjust slider height based on each slide's height."
+msgstr ""
+
+#: admin/views/class-testimonial-pro-metaboxs.php:598
+msgid "Touch Swipe"
+msgstr ""
+
+#: admin/views/class-testimonial-pro-metaboxs.php:599
+msgid "On/Off swipe mode."
+msgstr ""
+
+#: admin/views/class-testimonial-pro-metaboxs.php:606
+msgid "Mouse Draggable"
+msgstr ""
+
+#: admin/views/class-testimonial-pro-metaboxs.php:607
+msgid "On/Off mouse draggable mode."
+msgstr ""
+
+#: admin/views/class-testimonial-pro-metaboxs.php:614
+msgid "Swipe to Slide"
+msgstr ""
+
+#: admin/views/class-testimonial-pro-metaboxs.php:615
+msgid "On/Off swipe to slide."
+msgstr ""
+
+#: admin/views/class-testimonial-pro-metaboxs.php:629
+msgid "Display Settings"
+msgstr ""
+
+#: admin/views/class-testimonial-pro-metaboxs.php:636
+#: admin/views/class-testimonial-pro-metaboxs.php:1853
+msgid "Section Title"
+msgstr ""
+
+#: admin/views/class-testimonial-pro-metaboxs.php:637
+msgid "Show/Hide the testimonial section title."
+msgstr ""
+
+#: admin/views/class-testimonial-pro-metaboxs.php:646
+msgid "Margin Between Testimonials"
+msgstr ""
+
+#: admin/views/class-testimonial-pro-metaboxs.php:647
+msgid "Set margin between the testimonials."
+msgstr ""
+
+#: admin/views/class-testimonial-pro-metaboxs.php:648
+#: admin/views/class-testimonial-pro-metaboxs.php:738
+msgid "px"
+msgstr ""
+
+#: admin/views/class-testimonial-pro-metaboxs.php:659
+msgid "Testimonial Border"
+msgstr ""
+
+#: admin/views/class-testimonial-pro-metaboxs.php:660
+msgid "Set testimonial border."
+msgstr ""
+
+#: admin/views/class-testimonial-pro-metaboxs.php:676
+msgid "Testimonial Box-Shadow Color"
+msgstr ""
+
+#: admin/views/class-testimonial-pro-metaboxs.php:677
+msgid "Set testimonial box-shadow color."
+msgstr ""
+
+#: admin/views/class-testimonial-pro-metaboxs.php:688
+msgid "Testimonial Top Background"
+msgstr ""
+
+#: admin/views/class-testimonial-pro-metaboxs.php:689
+msgid "Set testimonial top background color."
+msgstr ""
+
+#: admin/views/class-testimonial-pro-metaboxs.php:700
+#: admin/views/class-testimonial-pro-metaboxs.php:712
+#: admin/views/class-testimonial-pro-metaboxs.php:724
+msgid "Testimonial Background"
+msgstr ""
+
+#: admin/views/class-testimonial-pro-metaboxs.php:701
+#: admin/views/class-testimonial-pro-metaboxs.php:713
+#: admin/views/class-testimonial-pro-metaboxs.php:725
+msgid "Set testimonial background color."
+msgstr ""
+
+#: admin/views/class-testimonial-pro-metaboxs.php:736
+msgid "Testimonial Border Radius"
+msgstr ""
+
+#: admin/views/class-testimonial-pro-metaboxs.php:737
+msgid "Set testimonial border radius."
+msgstr ""
+
+#: admin/views/class-testimonial-pro-metaboxs.php:749
+msgid "Inner Padding"
+msgstr ""
+
+#: admin/views/class-testimonial-pro-metaboxs.php:750
+msgid "Set testimonial inner padding."
+msgstr ""
+
+#: admin/views/class-testimonial-pro-metaboxs.php:768
+#: admin/views/class-testimonial-pro-metaboxs.php:786
+msgid "Testimonial Info Position"
+msgstr ""
+
+#: admin/views/class-testimonial-pro-metaboxs.php:769
+#: admin/views/class-testimonial-pro-metaboxs.php:787
+msgid "Select testimonial info position."
+msgstr ""
+
+#: admin/views/class-testimonial-pro-metaboxs.php:771
+#: admin/views/class-testimonial-pro-metaboxs.php:1577
+#: admin/views/class-testimonial-pro-metaboxs.php:2845
+msgid "Top"
+msgstr ""
+
+#: admin/views/class-testimonial-pro-metaboxs.php:772
+#: admin/views/class-testimonial-pro-metaboxs.php:1578
+#: admin/views/class-testimonial-pro-metaboxs.php:2846
+msgid "Bottom"
+msgstr ""
+
+#: admin/views/class-testimonial-pro-metaboxs.php:773
+#: admin/views/class-testimonial-pro-metaboxs.php:1105
+#: admin/views/class-testimonial-pro-metaboxs.php:1258
+#: admin/views/class-testimonial-pro-metaboxs.php:1392
+#: admin/views/class-testimonial-pro-metaboxs.php:1475
+#: admin/views/class-testimonial-pro-metaboxs.php:1558
+#: admin/views/class-testimonial-pro-metaboxs.php:1575
+#: admin/views/tp-metabox/fields/typography/typography.php:166
+msgid "Left"
+msgstr ""
+
+#: admin/views/class-testimonial-pro-metaboxs.php:774
+#: admin/views/class-testimonial-pro-metaboxs.php:1107
+#: admin/views/class-testimonial-pro-metaboxs.php:1260
+#: admin/views/class-testimonial-pro-metaboxs.php:1394
+#: admin/views/class-testimonial-pro-metaboxs.php:1477
+#: admin/views/class-testimonial-pro-metaboxs.php:1560
+#: admin/views/class-testimonial-pro-metaboxs.php:1576
+#: admin/views/tp-metabox/fields/typography/typography.php:168
+msgid "Right"
+msgstr ""
+
+#: admin/views/class-testimonial-pro-metaboxs.php:789
+#: admin/views/class-testimonial-pro-metaboxs.php:1597
+msgid "Top Left"
+msgstr ""
+
+#: admin/views/class-testimonial-pro-metaboxs.php:790
+#: admin/views/class-testimonial-pro-metaboxs.php:1598
+msgid "Top Right"
+msgstr ""
+
+#: admin/views/class-testimonial-pro-metaboxs.php:791
+#: admin/views/class-testimonial-pro-metaboxs.php:1599
+msgid "Bottom Left"
+msgstr ""
+
+#: admin/views/class-testimonial-pro-metaboxs.php:792
+#: admin/views/class-testimonial-pro-metaboxs.php:1600
+msgid "Bottom Right"
+msgstr ""
+
+#: admin/views/class-testimonial-pro-metaboxs.php:804
+msgid "Testimonial Info Border"
+msgstr ""
+
+#: admin/views/class-testimonial-pro-metaboxs.php:805
+msgid "Set testimonial info border."
+msgstr ""
+
+#: admin/views/class-testimonial-pro-metaboxs.php:821
+msgid "Testimonial Info Background"
+msgstr ""
+
+#: admin/views/class-testimonial-pro-metaboxs.php:822
+msgid "Set testimonial info background color."
+msgstr ""
+
+#: admin/views/class-testimonial-pro-metaboxs.php:833
+msgid "Testimonial Info Inner Padding"
+msgstr ""
+
+#: admin/views/class-testimonial-pro-metaboxs.php:834
+msgid "Set testimonial info inner padding."
+msgstr ""
+
+#: admin/views/class-testimonial-pro-metaboxs.php:851
+#: admin/views/class-testimonial-pro-metaboxs.php:889
+#: admin/views/class-testimonial-pro-metaboxs.php:1915
+msgid "Testimonial Content"
+msgstr ""
+
+#: admin/views/class-testimonial-pro-metaboxs.php:856
+#: admin/views/class-testimonial-pro-metaboxs.php:1881
+#: admin/views/class-testimonial-pro-metaboxs.php:2250
+#: admin/views/class-testimonial-pro-metaboxs.php:2464
+#: admin/views/class-testimonial-pro-metaboxs.php:2471
+msgid "Testimonial Title"
+msgstr ""
+
+#: admin/views/class-testimonial-pro-metaboxs.php:857
+msgid "Show/Hide testimonial tagline or title."
+msgstr ""
+
+#: admin/views/class-testimonial-pro-metaboxs.php:866
+#: admin/views/class-testimonial-pro-metaboxs.php:1043
+msgid "HTML Tag"
+msgstr ""
+
+#: admin/views/class-testimonial-pro-metaboxs.php:867
+msgid "Select testimonial title HTML tag."
+msgstr ""
+
+#: admin/views/class-testimonial-pro-metaboxs.php:890
+msgid "Show/Hide testimonial content."
+msgstr ""
+
+#: admin/views/class-testimonial-pro-metaboxs.php:899
+msgid "Content Display Type"
+msgstr ""
+
+#: admin/views/class-testimonial-pro-metaboxs.php:900
+msgid "Choose content display type."
+msgstr ""
+
+#: admin/views/class-testimonial-pro-metaboxs.php:902
+msgid "Full Content"
+msgstr ""
+
+#: admin/views/class-testimonial-pro-metaboxs.php:903
+msgid "Content with Limit"
+msgstr ""
+
+#: admin/views/class-testimonial-pro-metaboxs.php:915
+msgid "Length"
+msgstr ""
+
+#: admin/views/class-testimonial-pro-metaboxs.php:916
+msgid "Set testimonial characters length."
+msgstr ""
+
+#: admin/views/class-testimonial-pro-metaboxs.php:917
+msgid "chars"
+msgstr ""
+
+#: admin/views/class-testimonial-pro-metaboxs.php:928
+msgid "Ellipsis"
+msgstr ""
+
+#: admin/views/class-testimonial-pro-metaboxs.php:929
+msgid "Type ellipsis."
+msgstr ""
+
+#: admin/views/class-testimonial-pro-metaboxs.php:941
+msgid "Read More"
+msgstr ""
+
+#: admin/views/class-testimonial-pro-metaboxs.php:942
+msgid "Show/Hide testimonial read more button."
+msgstr ""
+
+#: admin/views/class-testimonial-pro-metaboxs.php:956
+msgid "Read More Action Type"
+msgstr ""
+
+#: admin/views/class-testimonial-pro-metaboxs.php:957
+msgid "Select read more link action type."
+msgstr ""
+
+#: admin/views/class-testimonial-pro-metaboxs.php:959
+msgid "Expand"
+msgstr ""
+
+#: admin/views/class-testimonial-pro-metaboxs.php:960
+msgid "Popup"
+msgstr ""
+
+#: admin/views/class-testimonial-pro-metaboxs.php:972
+msgid "Popup Background"
+msgstr ""
+
+#: admin/views/class-testimonial-pro-metaboxs.php:973
+msgid "Set popup background color."
+msgstr ""
+
+#: admin/views/class-testimonial-pro-metaboxs.php:984
+msgid "Read More Label"
+msgstr ""
+
+#: admin/views/class-testimonial-pro-metaboxs.php:985
+msgid "Type read more label."
+msgstr ""
+
+#: admin/views/class-testimonial-pro-metaboxs.php:997
+msgid "Read Less Label"
+msgstr ""
+
+#: admin/views/class-testimonial-pro-metaboxs.php:998
+msgid "Type read less label."
+msgstr ""
+
+#: admin/views/class-testimonial-pro-metaboxs.php:1010
+msgid "Read More Color"
+msgstr ""
+
+#: admin/views/class-testimonial-pro-metaboxs.php:1011
+msgid "Set read more color."
+msgstr ""
+
+#: admin/views/class-testimonial-pro-metaboxs.php:1028
+#: admin/views/class-testimonial-pro-metaboxs.php:3031
+msgid "Reviewer Information"
+msgstr ""
+
+#: admin/views/class-testimonial-pro-metaboxs.php:1033
+#: admin/views/class-testimonial-pro-metaboxs.php:1949
+#: admin/views/class-testimonial-pro-metaboxs.php:2246
+#: admin/views/class-testimonial-pro-metaboxs.php:2340
+#: admin/views/class-testimonial-pro-metaboxs.php:2347
+#: admin/views/class-testimonial-pro-metaboxs.php:3037
+msgid "Full Name"
+msgstr ""
+
+#: admin/views/class-testimonial-pro-metaboxs.php:1034
+msgid "Show/Hide reviewer full name."
+msgstr ""
+
+#: admin/views/class-testimonial-pro-metaboxs.php:1044
+msgid "Select reviewer full name HTML tag."
+msgstr ""
+
+#: admin/views/class-testimonial-pro-metaboxs.php:1066
+#: admin/views/class-testimonial-pro-metaboxs.php:2258
+#: admin/views/class-testimonial-pro-metaboxs.php:2729
+#: admin/views/class-testimonial-pro-metaboxs.php:2736
+#: admin/views/class-testimonial-pro-metaboxs.php:3086 testimonial-pro.php:438
+msgid "Rating"
+msgstr ""
+
+#: admin/views/class-testimonial-pro-metaboxs.php:1067
+msgid "Show/Hide rating."
+msgstr ""
+
+#: admin/views/class-testimonial-pro-metaboxs.php:1076
+msgid "Rating Icon"
+msgstr ""
+
+#: admin/views/class-testimonial-pro-metaboxs.php:1077
+msgid "Choose a rating icon."
+msgstr ""
+
+#: admin/views/class-testimonial-pro-metaboxs.php:1094
+msgid "Rating Color"
+msgstr ""
+
+#: admin/views/class-testimonial-pro-metaboxs.php:1095
+msgid "Set color for rating."
+msgstr ""
+
+#: admin/views/class-testimonial-pro-metaboxs.php:1102
+msgid "Rating Alignment"
+msgstr ""
+
+#: admin/views/class-testimonial-pro-metaboxs.php:1103
+msgid "Set alignment of rating."
+msgstr ""
+
+#: admin/views/class-testimonial-pro-metaboxs.php:1106
+#: admin/views/class-testimonial-pro-metaboxs.php:1259
+#: admin/views/class-testimonial-pro-metaboxs.php:1393
+#: admin/views/class-testimonial-pro-metaboxs.php:1476
+#: admin/views/class-testimonial-pro-metaboxs.php:1559
+#: admin/views/tp-metabox/fields/typography/typography.php:167
+msgid "Center"
+msgstr ""
+
+#: admin/views/class-testimonial-pro-metaboxs.php:1119
+msgid "Rating Margin"
+msgstr ""
+
+#: admin/views/class-testimonial-pro-metaboxs.php:1120
+msgid "Set margin for rating."
+msgstr ""
+
+#: admin/views/class-testimonial-pro-metaboxs.php:1138
+#: admin/views/class-testimonial-pro-metaboxs.php:2248
+#: admin/views/class-testimonial-pro-metaboxs.php:2402
+#: admin/views/class-testimonial-pro-metaboxs.php:2409
+#: admin/views/class-testimonial-pro-metaboxs.php:3049
+msgid "Identity or Position"
+msgstr ""
+
+#: admin/views/class-testimonial-pro-metaboxs.php:1139
+msgid "Show/Hide identity or position."
+msgstr ""
+
+#: admin/views/class-testimonial-pro-metaboxs.php:1148
+#: admin/views/class-testimonial-pro-metaboxs.php:2249
+#: admin/views/class-testimonial-pro-metaboxs.php:2433
+#: admin/views/class-testimonial-pro-metaboxs.php:2440
+#: admin/views/class-testimonial-pro-metaboxs.php:3055
+msgid "Company Name"
+msgstr ""
+
+#: admin/views/class-testimonial-pro-metaboxs.php:1149
+msgid "Show/Hide company name."
+msgstr ""
+
+#: admin/views/class-testimonial-pro-metaboxs.php:1158
+#: admin/views/class-testimonial-pro-metaboxs.php:2019
+#: admin/views/class-testimonial-pro-metaboxs.php:2254
+#: admin/views/class-testimonial-pro-metaboxs.php:2605
+#: admin/views/class-testimonial-pro-metaboxs.php:2612
+#: admin/views/class-testimonial-pro-metaboxs.php:3061
+msgid "Location"
+msgstr ""
+
+#: admin/views/class-testimonial-pro-metaboxs.php:1159
+msgid "Show/Hide Reviewer location."
+msgstr ""
+
+#: admin/views/class-testimonial-pro-metaboxs.php:1168
+#: admin/views/class-testimonial-pro-metaboxs.php:2054
+#: admin/views/class-testimonial-pro-metaboxs.php:2255
+#: admin/views/class-testimonial-pro-metaboxs.php:2636
+#: admin/views/class-testimonial-pro-metaboxs.php:2643
+#: admin/views/class-testimonial-pro-metaboxs.php:3067
+msgid "Phone or Mobile"
+msgstr ""
+
+#: admin/views/class-testimonial-pro-metaboxs.php:1169
+msgid "Show/Hide phone or mobile number."
+msgstr ""
+
+#: admin/views/class-testimonial-pro-metaboxs.php:1178
+#: admin/views/class-testimonial-pro-metaboxs.php:2089
+#: admin/views/class-testimonial-pro-metaboxs.php:2247
+#: admin/views/class-testimonial-pro-metaboxs.php:2371
+#: admin/views/class-testimonial-pro-metaboxs.php:2378
+#: admin/views/class-testimonial-pro-metaboxs.php:3043
+msgid "E-mail Address"
+msgstr ""
+
+#: admin/views/class-testimonial-pro-metaboxs.php:1179
+msgid "Show/Hide e-mail address."
+msgstr ""
+
+#: admin/views/class-testimonial-pro-metaboxs.php:1189
+msgid "Show/Hide testimonial date."
+msgstr ""
+
+#: admin/views/class-testimonial-pro-metaboxs.php:1198
+msgid "Date Format"
+msgstr ""
+
+#: admin/views/class-testimonial-pro-metaboxs.php:1199
+msgid "Set date format."
+msgstr ""
+
+#: admin/views/class-testimonial-pro-metaboxs.php:1212
+#: admin/views/class-testimonial-pro-metaboxs.php:2159
+#: admin/views/class-testimonial-pro-metaboxs.php:2256
+#: admin/views/class-testimonial-pro-metaboxs.php:2667
+#: admin/views/class-testimonial-pro-metaboxs.php:2674
+#: admin/views/class-testimonial-pro-metaboxs.php:3073
+msgid "Website"
+msgstr ""
+
+#: admin/views/class-testimonial-pro-metaboxs.php:1213
+msgid "Show/Hide website."
+msgstr ""
+
+#: admin/views/class-testimonial-pro-metaboxs.php:1222
+msgid "Identity & Company linking via Website URL"
+msgstr ""
+
+#: admin/views/class-testimonial-pro-metaboxs.php:1223
+msgid "Check to link identity & company name via website URL."
+msgstr ""
+
+#: admin/views/class-testimonial-pro-metaboxs.php:1229
+msgid "Link Target"
+msgstr ""
+
+#: admin/views/class-testimonial-pro-metaboxs.php:1230
+msgid "Set a target to open the website URL."
+msgstr ""
+
+#: admin/views/class-testimonial-pro-metaboxs.php:1232
+msgid "New Tab"
+msgstr ""
+
+#: admin/views/class-testimonial-pro-metaboxs.php:1233
+msgid "Same Tab"
+msgstr ""
+
+#: admin/views/class-testimonial-pro-metaboxs.php:1240
+#: admin/views/class-testimonial-pro-metaboxs.php:3099
+msgid "Social Media"
+msgstr ""
+
+#: admin/views/class-testimonial-pro-metaboxs.php:1245
+#: admin/views/class-testimonial-pro-metaboxs.php:3104
+msgid "Social Profiles"
+msgstr ""
+
+#: admin/views/class-testimonial-pro-metaboxs.php:1246
+msgid "Show/Hide social profiles."
+msgstr ""
+
+#: admin/views/class-testimonial-pro-metaboxs.php:1255
+#: admin/views/class-testimonial-pro-metaboxs.php:1389
+#: admin/views/class-testimonial-pro-metaboxs.php:1555
+#: admin/views/class-testimonial-pro-metaboxs.php:1572
+#: admin/views/class-testimonial-pro-metaboxs.php:1590
+msgid "Alignment"
+msgstr ""
+
+#: admin/views/class-testimonial-pro-metaboxs.php:1256
+msgid "Social profiles alignment."
+msgstr ""
+
+#: admin/views/class-testimonial-pro-metaboxs.php:1273
+msgid "Set margin for social profiles."
+msgstr ""
+
+#: admin/views/class-testimonial-pro-metaboxs.php:1291
+msgid "Custom Color"
+msgstr ""
+
+#: admin/views/class-testimonial-pro-metaboxs.php:1292
+msgid "Set social icon custom color."
+msgstr ""
+
+#: admin/views/class-testimonial-pro-metaboxs.php:1303
+msgid "Icon Color"
+msgstr ""
+
+#: admin/views/class-testimonial-pro-metaboxs.php:1304
+msgid "Set social icon color."
+msgstr ""
+
+#: admin/views/class-testimonial-pro-metaboxs.php:1326
+msgid "Icon Border"
+msgstr ""
+
+#: admin/views/class-testimonial-pro-metaboxs.php:1327
+msgid "Set social icon border."
+msgstr ""
+
+#: admin/views/class-testimonial-pro-metaboxs.php:1345
+msgid "Icon Border Radius"
+msgstr ""
+
+#: admin/views/class-testimonial-pro-metaboxs.php:1346
+msgid "Set social icon border radius."
+msgstr ""
+
+#: admin/views/class-testimonial-pro-metaboxs.php:1375
+msgid "Enqueue/Dequeue pagination."
+msgstr ""
+
+#: admin/views/class-testimonial-pro-metaboxs.php:1390
+msgid "Select pagination alignment."
+msgstr ""
+
+#: admin/views/class-testimonial-pro-metaboxs.php:1426
+msgid "Set color for pagination."
+msgstr ""
+
+#: admin/views/class-testimonial-pro-metaboxs.php:1448
+msgid "Pagination Border"
+msgstr ""
+
+#: admin/views/class-testimonial-pro-metaboxs.php:1449
+msgid "Set pagination border."
+msgstr ""
+
+#: admin/views/class-testimonial-pro-metaboxs.php:1472
+msgid "Filter Button Alignment"
+msgstr ""
+
+#: admin/views/class-testimonial-pro-metaboxs.php:1473
+msgid "Set filter button alignment."
+msgstr ""
+
+#: admin/views/class-testimonial-pro-metaboxs.php:1486
+msgid "Set margin for filter."
+msgstr ""
+
+#: admin/views/class-testimonial-pro-metaboxs.php:1500
+msgid "Filter Color"
+msgstr ""
+
+#: admin/views/class-testimonial-pro-metaboxs.php:1501
+msgid "Set color for filter."
+msgstr ""
+
+#: admin/views/class-testimonial-pro-metaboxs.php:1506
+msgid "Active Background"
+msgstr ""
+
+#: admin/views/class-testimonial-pro-metaboxs.php:1525
+msgid "Image Settings"
+msgstr ""
+
+#: admin/views/class-testimonial-pro-metaboxs.php:1532
+msgid "Testimonial Image"
+msgstr ""
+
+#: admin/views/class-testimonial-pro-metaboxs.php:1533
+msgid "Show/Hide testimonial image."
+msgstr ""
+
+#: admin/views/class-testimonial-pro-metaboxs.php:1542
+msgid "Enable Thumbnail Slider"
+msgstr ""
+
+#: admin/views/class-testimonial-pro-metaboxs.php:1543
+msgid "Check to enable thumbnail slider."
+msgstr ""
+
+#: admin/views/class-testimonial-pro-metaboxs.php:1556
+#: admin/views/class-testimonial-pro-metaboxs.php:1573
+#: admin/views/class-testimonial-pro-metaboxs.php:1591
+msgid "Select image alignment."
+msgstr ""
+
+#: admin/views/class-testimonial-pro-metaboxs.php:1593
+#: admin/views/tp-metabox/fields/background/background.php:146
+msgid "Left Top"
+msgstr ""
+
+#: admin/views/class-testimonial-pro-metaboxs.php:1594
+#: admin/views/tp-metabox/fields/background/background.php:148
+msgid "Left Bottom"
+msgstr ""
+
+#: admin/views/class-testimonial-pro-metaboxs.php:1595
+#: admin/views/tp-metabox/fields/background/background.php:152
+msgid "Right Top"
+msgstr ""
+
+#: admin/views/class-testimonial-pro-metaboxs.php:1596
+#: admin/views/tp-metabox/fields/background/background.php:154
+msgid "Right Bottom"
+msgstr ""
+
+#: admin/views/class-testimonial-pro-metaboxs.php:1613
+#: admin/views/class-testimonial-pro-metaboxs.php:1632
+msgid "Set margin for testimonial image."
+msgstr ""
+
+#: admin/views/class-testimonial-pro-metaboxs.php:1650
+msgid "Image Shape"
+msgstr ""
+
+#: admin/views/class-testimonial-pro-metaboxs.php:1651
+msgid "Choose a image shape."
+msgstr ""
+
+#: admin/views/class-testimonial-pro-metaboxs.php:1655
+msgid "Square"
+msgstr ""
+
+#: admin/views/class-testimonial-pro-metaboxs.php:1659
+msgid "Rounded"
+msgstr ""
+
+#: admin/views/class-testimonial-pro-metaboxs.php:1663
+msgid "Circle"
+msgstr ""
+
+#: admin/views/class-testimonial-pro-metaboxs.php:1676
+msgid "Border or Box-Shadow"
+msgstr ""
+
+#: admin/views/class-testimonial-pro-metaboxs.php:1677
+msgid "Select image border or box-shadow option."
+msgstr ""
+
+#: admin/views/class-testimonial-pro-metaboxs.php:1679
+#: admin/views/class-testimonial-pro-metaboxs.php:1700
+msgid "Border"
+msgstr ""
+
+#: admin/views/class-testimonial-pro-metaboxs.php:1680
+msgid "Box-Shadow"
+msgstr ""
+
+#: admin/views/class-testimonial-pro-metaboxs.php:1688
+msgid "Box-Shadow Color"
+msgstr ""
+
+#: admin/views/class-testimonial-pro-metaboxs.php:1689
+msgid "Set image box-shadow color."
+msgstr ""
+
+#: admin/views/class-testimonial-pro-metaboxs.php:1701
+msgid "Set image border."
+msgstr ""
+
+#: admin/views/class-testimonial-pro-metaboxs.php:1718
+msgid "Image Background"
+msgstr ""
+
+#: admin/views/class-testimonial-pro-metaboxs.php:1719
+msgid "Set image background color."
+msgstr ""
+
+#: admin/views/class-testimonial-pro-metaboxs.php:1726
+msgid "Padding"
+msgstr ""
+
+#: admin/views/class-testimonial-pro-metaboxs.php:1727
+msgid "Set image padding."
+msgstr ""
+
+#: admin/views/class-testimonial-pro-metaboxs.php:1743
+msgid "Testimonial Image Size"
+msgstr ""
+
+#: admin/views/class-testimonial-pro-metaboxs.php:1744
+msgid "Select which size image to show with your Testimonials."
+msgstr ""
+
+#: admin/views/class-testimonial-pro-metaboxs.php:1755
+msgid "Custom Size"
+msgstr ""
+
+#: admin/views/class-testimonial-pro-metaboxs.php:1756
+msgid "Set a custom width and height of the image."
+msgstr ""
+
+#: admin/views/class-testimonial-pro-metaboxs.php:1775
+msgid "Grayscale"
+msgstr ""
+
+#: admin/views/class-testimonial-pro-metaboxs.php:1776
+msgid "Select image grayscale."
+msgstr ""
+
+#: admin/views/class-testimonial-pro-metaboxs.php:1778
+#: admin/views/tp-metabox/fields/border/border.php:61
+#: admin/views/tp-metabox/fields/typography/typography.php:194
+#: admin/views/tp-metabox/fields/typography/typography.php:208
+msgid "None"
+msgstr ""
+
+#: admin/views/class-testimonial-pro-metaboxs.php:1779
+msgid "Grayscale and normal on hover"
+msgstr ""
+
+#: admin/views/class-testimonial-pro-metaboxs.php:1780
+msgid "Grayscale on hover"
+msgstr ""
+
+#: admin/views/class-testimonial-pro-metaboxs.php:1781
+msgid "Always grayscale"
+msgstr ""
+
+#: admin/views/class-testimonial-pro-metaboxs.php:1793
+msgid "Video Testimonial"
+msgstr ""
+
+#: admin/views/class-testimonial-pro-metaboxs.php:1794
+msgid "Show/Hide video testimonial."
+msgstr ""
+
+#: admin/views/class-testimonial-pro-metaboxs.php:1808
+msgid "Video Icon Color"
+msgstr ""
+
+#: admin/views/class-testimonial-pro-metaboxs.php:1809
+msgid "Set video testimonial icon color."
+msgstr ""
+
+#: admin/views/class-testimonial-pro-metaboxs.php:1820
+msgid "Video Icon Overlay Color"
+msgstr ""
+
+#: admin/views/class-testimonial-pro-metaboxs.php:1821
+msgid "Set video testimonial icon overlay color."
+msgstr ""
+
+#: admin/views/class-testimonial-pro-metaboxs.php:1839
+msgid "Typography"
+msgstr ""
+
+#: admin/views/class-testimonial-pro-metaboxs.php:1846
+msgid "Load Section Title Font"
+msgstr ""
+
+#: admin/views/class-testimonial-pro-metaboxs.php:1847
+msgid "On/Off google font for the testimonial section title."
+msgstr ""
+
+#: admin/views/class-testimonial-pro-metaboxs.php:1854
+msgid "Set testimonial section title font properties."
+msgstr ""
+
+#: admin/views/class-testimonial-pro-metaboxs.php:1874
+msgid "Load Testimonial Title Font"
+msgstr ""
+
+#: admin/views/class-testimonial-pro-metaboxs.php:1875
+msgid "On/Off google font for the testimonial tagline or title."
+msgstr ""
+
+#: admin/views/class-testimonial-pro-metaboxs.php:1882
+msgid "Set testimonial tagline or title font properties."
+msgstr ""
+
+#: admin/views/class-testimonial-pro-metaboxs.php:1908
+msgid "Load Testimonial Content Font"
+msgstr ""
+
+#: admin/views/class-testimonial-pro-metaboxs.php:1909
+msgid "On/Off google font for the testimonial content."
+msgstr ""
+
+#: admin/views/class-testimonial-pro-metaboxs.php:1916
+msgid "Set testimonial content font properties."
+msgstr ""
+
+#: admin/views/class-testimonial-pro-metaboxs.php:1942
+msgid "Load Full Name Font"
+msgstr ""
+
+#: admin/views/class-testimonial-pro-metaboxs.php:1943
+msgid "On/Off google font for the full name."
+msgstr ""
+
+#: admin/views/class-testimonial-pro-metaboxs.php:1950
+msgid "Set full name font properties."
+msgstr ""
+
+#: admin/views/class-testimonial-pro-metaboxs.php:1977
+msgid "Load Identity or Position & Company Name Font"
+msgstr ""
+
+#: admin/views/class-testimonial-pro-metaboxs.php:1978
+msgid "On/Off google font for the identity or position & company name."
+msgstr ""
+
+#: admin/views/class-testimonial-pro-metaboxs.php:1984
+msgid "Identity or Position & Company Name"
+msgstr ""
+
+#: admin/views/class-testimonial-pro-metaboxs.php:1985
+msgid "Set identity or position & company name font properties."
+msgstr ""
+
+#: admin/views/class-testimonial-pro-metaboxs.php:2012
+msgid "Load Location Font"
+msgstr ""
+
+#: admin/views/class-testimonial-pro-metaboxs.php:2013
+msgid "On/Off google font for the location."
+msgstr ""
+
+#: admin/views/class-testimonial-pro-metaboxs.php:2020
+msgid "Set location font properties."
+msgstr ""
+
+#: admin/views/class-testimonial-pro-metaboxs.php:2047
+msgid "Load Phone or Mobile Font"
+msgstr ""
+
+#: admin/views/class-testimonial-pro-metaboxs.php:2048
+msgid "On/Off google font for the phone or mobile."
+msgstr ""
+
+#: admin/views/class-testimonial-pro-metaboxs.php:2055
+msgid "Set phone or mobile font properties."
+msgstr ""
+
+#: admin/views/class-testimonial-pro-metaboxs.php:2082
+msgid "Load E-mail Address Font"
+msgstr ""
+
+#: admin/views/class-testimonial-pro-metaboxs.php:2083
+msgid "On/Off google font for the email address."
+msgstr ""
+
+#: admin/views/class-testimonial-pro-metaboxs.php:2090
+msgid "Set e-mail address font properties."
+msgstr ""
+
+#: admin/views/class-testimonial-pro-metaboxs.php:2117
+msgid "Load Date Font"
+msgstr ""
+
+#: admin/views/class-testimonial-pro-metaboxs.php:2118
+msgid "On/Off google font for the date."
+msgstr ""
+
+#: admin/views/class-testimonial-pro-metaboxs.php:2125
+msgid "Set date font properties."
+msgstr ""
+
+#: admin/views/class-testimonial-pro-metaboxs.php:2152
+msgid "Load Website Font"
+msgstr ""
+
+#: admin/views/class-testimonial-pro-metaboxs.php:2153
+msgid "On/Off google font for the website."
+msgstr ""
+
+#: admin/views/class-testimonial-pro-metaboxs.php:2160
+msgid "Set website font properties."
+msgstr ""
+
+#: admin/views/class-testimonial-pro-metaboxs.php:2187
+msgid "Load Filter Font"
+msgstr ""
+
+#: admin/views/class-testimonial-pro-metaboxs.php:2188
+msgid "On/Off google font for the filter."
+msgstr ""
+
+#: admin/views/class-testimonial-pro-metaboxs.php:2196
+msgid "Set filter font properties."
+msgstr ""
+
+#: admin/views/class-testimonial-pro-metaboxs.php:2228
+msgid "Form Fields"
+msgstr ""
+
+#: admin/views/class-testimonial-pro-metaboxs.php:2251
+#: admin/views/class-testimonial-pro-metaboxs.php:2495
+#: admin/views/class-testimonial-pro-metaboxs.php:2502
+msgid "Testimonial"
+msgstr ""
+
+#: admin/views/class-testimonial-pro-metaboxs.php:2253
+#: admin/views/class-testimonial-pro-metaboxs.php:2580 testimonial-pro.php:435
+msgid "Image"
+msgstr ""
+
+#: admin/views/class-testimonial-pro-metaboxs.php:2257
+#: admin/views/class-testimonial-pro-metaboxs.php:2698
+#: admin/views/class-testimonial-pro-metaboxs.php:2705
+msgid "Video URL"
+msgstr ""
+
+#: admin/views/class-testimonial-pro-metaboxs.php:2259
+#: admin/views/class-testimonial-pro-metaboxs.php:2748
+#: admin/views/class-testimonial-pro-metaboxs.php:2755
+msgid "Social Profile"
+msgstr ""
+
+#: admin/views/class-testimonial-pro-metaboxs.php:2260
+#: admin/views/class-testimonial-pro-metaboxs.php:2778
+#: admin/views/class-testimonial-pro-settings.php:175
+msgid "reCAPTCHA"
+msgstr ""
+
+#: admin/views/class-testimonial-pro-metaboxs.php:2280
+msgid "Testimonial Form Code"
+msgstr ""
+
+#: admin/views/class-testimonial-pro-metaboxs.php:2314
+msgid "Form Options"
+msgstr ""
+
+#: admin/views/class-testimonial-pro-metaboxs.php:2326
+msgid "Form Editor"
+msgstr ""
+
+#: admin/views/class-testimonial-pro-metaboxs.php:2345
+#: admin/views/class-testimonial-pro-metaboxs.php:2376
+#: admin/views/class-testimonial-pro-metaboxs.php:2407
+#: admin/views/class-testimonial-pro-metaboxs.php:2438
+#: admin/views/class-testimonial-pro-metaboxs.php:2469
+#: admin/views/class-testimonial-pro-metaboxs.php:2500
+#: admin/views/class-testimonial-pro-metaboxs.php:2531
+#: admin/views/class-testimonial-pro-metaboxs.php:2585
+#: admin/views/class-testimonial-pro-metaboxs.php:2610
+#: admin/views/class-testimonial-pro-metaboxs.php:2641
+#: admin/views/class-testimonial-pro-metaboxs.php:2672
+#: admin/views/class-testimonial-pro-metaboxs.php:2703
+#: admin/views/class-testimonial-pro-metaboxs.php:2734
+#: admin/views/class-testimonial-pro-metaboxs.php:2753
+#: admin/views/class-testimonial-pro-metaboxs.php:2783
+#: admin/views/class-testimonial-pro-metaboxs.php:2801
+msgid "Label"
+msgstr ""
+
+#: admin/views/class-testimonial-pro-metaboxs.php:2346
+#: admin/views/class-testimonial-pro-metaboxs.php:2377
+#: admin/views/class-testimonial-pro-metaboxs.php:2408
+#: admin/views/class-testimonial-pro-metaboxs.php:2439
+#: admin/views/class-testimonial-pro-metaboxs.php:2470
+#: admin/views/class-testimonial-pro-metaboxs.php:2501
+#: admin/views/class-testimonial-pro-metaboxs.php:2532
+#: admin/views/class-testimonial-pro-metaboxs.php:2586
+#: admin/views/class-testimonial-pro-metaboxs.php:2611
+#: admin/views/class-testimonial-pro-metaboxs.php:2642
+#: admin/views/class-testimonial-pro-metaboxs.php:2673
+#: admin/views/class-testimonial-pro-metaboxs.php:2704
+#: admin/views/class-testimonial-pro-metaboxs.php:2735
+#: admin/views/class-testimonial-pro-metaboxs.php:2754
+#: admin/views/class-testimonial-pro-metaboxs.php:2784
+msgid "To hide this label, leave it empty."
+msgstr ""
+
+#: admin/views/class-testimonial-pro-metaboxs.php:2352
+#: admin/views/class-testimonial-pro-metaboxs.php:2383
+#: admin/views/class-testimonial-pro-metaboxs.php:2414
+#: admin/views/class-testimonial-pro-metaboxs.php:2445
+#: admin/views/class-testimonial-pro-metaboxs.php:2476
+#: admin/views/class-testimonial-pro-metaboxs.php:2507
+#: admin/views/class-testimonial-pro-metaboxs.php:2538
+#: admin/views/class-testimonial-pro-metaboxs.php:2617
+#: admin/views/class-testimonial-pro-metaboxs.php:2648
+#: admin/views/class-testimonial-pro-metaboxs.php:2679
+#: admin/views/class-testimonial-pro-metaboxs.php:2710
+msgid "Placeholder"
+msgstr ""
+
+#: admin/views/class-testimonial-pro-metaboxs.php:2353
+msgid "What is your full name?"
+msgstr ""
+
+#: admin/views/class-testimonial-pro-metaboxs.php:2358
+#: admin/views/class-testimonial-pro-metaboxs.php:2389
+#: admin/views/class-testimonial-pro-metaboxs.php:2420
+#: admin/views/class-testimonial-pro-metaboxs.php:2451
+#: admin/views/class-testimonial-pro-metaboxs.php:2482
+#: admin/views/class-testimonial-pro-metaboxs.php:2513
+#: admin/views/class-testimonial-pro-metaboxs.php:2566
+#: admin/views/class-testimonial-pro-metaboxs.php:2592
+#: admin/views/class-testimonial-pro-metaboxs.php:2623
+#: admin/views/class-testimonial-pro-metaboxs.php:2654
+#: admin/views/class-testimonial-pro-metaboxs.php:2685
+#: admin/views/class-testimonial-pro-metaboxs.php:2716
+msgid "Required"
+msgstr ""
+
+#: admin/views/class-testimonial-pro-metaboxs.php:2384
+msgid "What is your e-mail address?"
+msgstr ""
+
+#: admin/views/class-testimonial-pro-metaboxs.php:2415
+msgid "What is your identity or position?"
+msgstr ""
+
+#: admin/views/class-testimonial-pro-metaboxs.php:2446
+msgid "What is your company name?"
+msgstr ""
+
+#: admin/views/class-testimonial-pro-metaboxs.php:2477
+msgid "A headline for your testimonial."
+msgstr ""
+
+#: admin/views/class-testimonial-pro-metaboxs.php:2508
+msgid "What do you think about us?"
+msgstr ""
+
+#: admin/views/class-testimonial-pro-metaboxs.php:2539
+msgid "Select groups name."
+msgstr ""
+
+#: admin/views/class-testimonial-pro-metaboxs.php:2544
+msgid "Multiple Group Selection?"
+msgstr ""
+
+#: admin/views/class-testimonial-pro-metaboxs.php:2550
+msgid "Select Group(s)"
+msgstr ""
+
+#: admin/views/class-testimonial-pro-metaboxs.php:2551
+msgid "Select groups for the frontend form. Leave blank for the all groups."
+msgstr ""
+
+#: admin/views/class-testimonial-pro-metaboxs.php:2558
+msgid "Select Groups"
+msgstr ""
+
+#: admin/views/class-testimonial-pro-metaboxs.php:2587
+msgid "Photo"
+msgstr ""
+
+#: admin/views/class-testimonial-pro-metaboxs.php:2618
+msgid "What is your location?"
+msgstr ""
+
+#: admin/views/class-testimonial-pro-metaboxs.php:2649
+msgid "What is your phone number?"
+msgstr ""
+
+#: admin/views/class-testimonial-pro-metaboxs.php:2680
+msgid "What is your website?"
+msgstr ""
+
+#: admin/views/class-testimonial-pro-metaboxs.php:2711
+msgid "Type video URL."
+msgstr ""
+
+#: admin/views/class-testimonial-pro-metaboxs.php:2760
+#: admin/views/class-testimonial-pro-metaboxs.php:2763
+msgid "Select Social Profile(s)"
+msgstr ""
+
+#: admin/views/class-testimonial-pro-metaboxs.php:2761
+msgid ""
+"Select social profile for the frontend form. Leave blank for the all socials."
+msgstr ""
+
+#: admin/views/class-testimonial-pro-metaboxs.php:2796
+msgid "Submit Button"
+msgstr ""
+
+#: admin/views/class-testimonial-pro-metaboxs.php:2802
+msgid "Type submit button label."
+msgstr ""
+
+#: admin/views/class-testimonial-pro-metaboxs.php:2803
+msgid "Submit Testimonial"
+msgstr ""
+
+#: admin/views/class-testimonial-pro-metaboxs.php:2822
+msgid "Messages"
+msgstr ""
+
+#: admin/views/class-testimonial-pro-metaboxs.php:2829
+msgid "Redirect"
+msgstr ""
+
+#: admin/views/class-testimonial-pro-metaboxs.php:2830
+msgid "After successful submit, where the page will redirect to."
+msgstr ""
+
+#: admin/views/class-testimonial-pro-metaboxs.php:2832
+msgid "Same Page"
+msgstr ""
+
+#: admin/views/class-testimonial-pro-metaboxs.php:2833
+msgid "To a page"
+msgstr ""
+
+#: admin/views/class-testimonial-pro-metaboxs.php:2834
+msgid "To a custom URL"
+msgstr ""
+
+#: admin/views/class-testimonial-pro-metaboxs.php:2841
+msgid "Form Submission Message Position"
+msgstr ""
+
+#: admin/views/class-testimonial-pro-metaboxs.php:2842
+msgid "Set a form submission message position."
+msgstr ""
+
+#: admin/views/class-testimonial-pro-metaboxs.php:2854
+msgid "Successful Message"
+msgstr ""
+
+#: admin/views/class-testimonial-pro-metaboxs.php:2855
+msgid "Notification for successful submission."
+msgstr ""
+
+#: admin/views/class-testimonial-pro-metaboxs.php:2862
+msgid "Page"
+msgstr ""
+
+#: admin/views/class-testimonial-pro-metaboxs.php:2863
+msgid "Select redirect page."
+msgstr ""
+
+#: admin/views/class-testimonial-pro-metaboxs.php:2870
+msgid "Custom URL"
+msgstr ""
+
+#: admin/views/class-testimonial-pro-metaboxs.php:2871
+msgid "Type redirect custom url."
+msgstr ""
+
+#: admin/views/class-testimonial-pro-metaboxs.php:2883
+msgid "Notifications"
+msgstr ""
+
+#: admin/views/class-testimonial-pro-metaboxs.php:2890
+msgid "Testimonial Status"
+msgstr ""
+
+#: admin/views/class-testimonial-pro-metaboxs.php:2891
+msgid "Select testimonial approval status for the front-end form submission."
+msgstr ""
+
+#: admin/views/class-testimonial-pro-metaboxs.php:2893
+msgid "Auto Publish"
+msgstr ""
+
+#: admin/views/class-testimonial-pro-metaboxs.php:2894
+msgid "Pending Review"
+msgstr ""
+
+#: admin/views/class-testimonial-pro-metaboxs.php:2895
+msgid "Private"
+msgstr ""
+
+#: admin/views/class-testimonial-pro-metaboxs.php:2896
+msgid "Draft"
+msgstr ""
+
+#: admin/views/class-testimonial-pro-metaboxs.php:2903
+msgid "Email Notification"
+msgstr ""
+
+#: admin/views/class-testimonial-pro-metaboxs.php:2904
+msgid "Email notification for a new testimonial."
+msgstr ""
+
+#: admin/views/class-testimonial-pro-metaboxs.php:2913
+msgid "Email Notification Subject"
+msgstr ""
+
+#: admin/views/class-testimonial-pro-metaboxs.php:2914
+msgid "Type subject for the email notification."
+msgstr ""
+
+#: admin/views/class-testimonial-pro-metaboxs.php:2921
+msgid "Email Notification Heading"
+msgstr ""
+
+#: admin/views/class-testimonial-pro-metaboxs.php:2922
+msgid "Type heading for the email notification."
+msgstr ""
+
+#: admin/views/class-testimonial-pro-metaboxs.php:2929
+msgid "Email Notification Body"
+msgstr ""
+
+#: admin/views/class-testimonial-pro-metaboxs.php:2961
+msgid "Email(s) to Notify"
+msgstr ""
+
+#: admin/views/class-testimonial-pro-metaboxs.php:2962
+msgid ""
+"Enter the email address(es) that will receive a notification for each "
+"pending testimonial. For multiple emails, use comma between these."
+msgstr ""
+
+#: admin/views/class-testimonial-pro-metaboxs.php:2975
+msgid "Stylization"
+msgstr ""
+
+#: admin/views/class-testimonial-pro-metaboxs.php:2982
+msgid "Label Color"
+msgstr ""
+
+#: admin/views/class-testimonial-pro-metaboxs.php:2983
+msgid "Set color for the field label."
+msgstr ""
+
+#: admin/views/class-testimonial-pro-metaboxs.php:2989
+msgid "Submit Button Color"
+msgstr ""
+
+#: admin/views/class-testimonial-pro-metaboxs.php:2990
+msgid "Set color for the submit button."
+msgstr ""
+
+#: admin/views/class-testimonial-pro-metaboxs.php:3019
+msgid "Testimonial Options"
+msgstr ""
+
+#: admin/views/class-testimonial-pro-metaboxs.php:3080
+msgid "Video Testimonial URL"
+msgstr ""
+
+#: admin/views/class-testimonial-pro-metaboxs.php:3088
+msgid "5 Stars"
+msgstr ""
+
+#: admin/views/class-testimonial-pro-metaboxs.php:3089
+msgid "4 Stars"
+msgstr ""
+
+#: admin/views/class-testimonial-pro-metaboxs.php:3090
+msgid "3 Stars"
+msgstr ""
+
+#: admin/views/class-testimonial-pro-metaboxs.php:3091
+msgid "2 Stars"
+msgstr ""
+
+#: admin/views/class-testimonial-pro-metaboxs.php:3092
+msgid "1 Star"
+msgstr ""
+
+#: admin/views/class-testimonial-pro-metaboxs.php:3112
+msgid "Select"
+msgstr ""
+
+#: admin/views/class-testimonial-pro-settings.php:14
+msgid "Settings"
+msgstr ""
+
+#: admin/views/class-testimonial-pro-settings.php:22
+#: admin/views/vc-add-on.php:47 admin/views/widget.php:16
+#: class/testimonial.php:61
+msgid "Testimonial Pro"
+msgstr ""
+
+#: admin/views/class-testimonial-pro-settings.php:32
+msgid "Advanced Settings"
+msgstr ""
+
+#: admin/views/class-testimonial-pro-settings.php:39
+msgid "Google Fonts"
+msgstr ""
+
+#: admin/views/class-testimonial-pro-settings.php:40
+msgid "Enqueue/dequeue google fonts."
+msgstr ""
+
+#: admin/views/class-testimonial-pro-settings.php:41
+#: admin/views/class-testimonial-pro-settings.php:63
+#: admin/views/class-testimonial-pro-settings.php:73
+#: admin/views/class-testimonial-pro-settings.php:83
+#: admin/views/class-testimonial-pro-settings.php:98
+#: admin/views/class-testimonial-pro-settings.php:108
+#: admin/views/class-testimonial-pro-settings.php:118
+msgid "Enqueue"
+msgstr ""
+
+#: admin/views/class-testimonial-pro-settings.php:42
+#: admin/views/class-testimonial-pro-settings.php:64
+#: admin/views/class-testimonial-pro-settings.php:74
+#: admin/views/class-testimonial-pro-settings.php:84
+#: admin/views/class-testimonial-pro-settings.php:99
+#: admin/views/class-testimonial-pro-settings.php:109
+#: admin/views/class-testimonial-pro-settings.php:119
+msgid "Dequeue"
+msgstr ""
+
+#: admin/views/class-testimonial-pro-settings.php:49
+msgid "Remove Plugin Data on Deletion?"
+msgstr ""
+
+#: admin/views/class-testimonial-pro-settings.php:50
+msgid "Delete all Testimonial Pro data from the database on plugin deletion."
+msgstr ""
+
+#: admin/views/class-testimonial-pro-settings.php:56
+msgid "Enqueue or Dequeue JS"
+msgstr ""
+
+#: admin/views/class-testimonial-pro-settings.php:61
+msgid "Slick JS"
+msgstr ""
+
+#: admin/views/class-testimonial-pro-settings.php:62
+msgid "Enqueue/dequeue slick JS."
+msgstr ""
+
+#: admin/views/class-testimonial-pro-settings.php:71
+msgid "Isotope JS"
+msgstr ""
+
+#: admin/views/class-testimonial-pro-settings.php:72
+msgid "Enqueue/dequeue isotope JS."
+msgstr ""
+
+#: admin/views/class-testimonial-pro-settings.php:81
+msgid "Magnific Popup JS"
+msgstr ""
+
+#: admin/views/class-testimonial-pro-settings.php:82
+msgid "Enqueue/dequeue magnific popup JS."
+msgstr ""
+
+#: admin/views/class-testimonial-pro-settings.php:91
+msgid "Enqueue or Dequeue CSS"
+msgstr ""
+
+#: admin/views/class-testimonial-pro-settings.php:96
+msgid "Slick CSS"
+msgstr ""
+
+#: admin/views/class-testimonial-pro-settings.php:97
+msgid "Enqueue/dequeue slick CSS."
+msgstr ""
+
+#: admin/views/class-testimonial-pro-settings.php:106
+msgid "Font Awesome CSS"
+msgstr ""
+
+#: admin/views/class-testimonial-pro-settings.php:107
+msgid "Enqueue/dequeue font awesome CSS."
+msgstr ""
+
+#: admin/views/class-testimonial-pro-settings.php:116
+msgid "Magnific Popup CSS"
+msgstr ""
+
+#: admin/views/class-testimonial-pro-settings.php:117
+msgid "Enqueue/dequeue magnific popup CSS."
+msgstr ""
+
+#: admin/views/class-testimonial-pro-settings.php:134
+msgid "Menu Settings"
+msgstr ""
+
+#: admin/views/class-testimonial-pro-settings.php:141
+msgid "Singular name"
+msgstr ""
+
+#: admin/views/class-testimonial-pro-settings.php:142
+msgid "Set testimonial singular name."
+msgstr ""
+
+#: admin/views/class-testimonial-pro-settings.php:148
+msgid "Plural name"
+msgstr ""
+
+#: admin/views/class-testimonial-pro-settings.php:149
+msgid "Set testimonial plural name."
+msgstr ""
+
+#: admin/views/class-testimonial-pro-settings.php:155
+msgid "Group Singular name"
+msgstr ""
+
+#: admin/views/class-testimonial-pro-settings.php:156
+msgid "Set testimonial group singular name."
+msgstr ""
+
+#: admin/views/class-testimonial-pro-settings.php:162
+msgid "Group Plural name"
+msgstr ""
+
+#: admin/views/class-testimonial-pro-settings.php:163
+msgid "Set testimonial group plural name."
+msgstr ""
+
+#: admin/views/class-testimonial-pro-settings.php:183
+msgid ""
+"<a href=\"https://www.google.com/recaptcha\" target=\"_blank\">reCAPTCHA</a> "
+"is a free anti-spam service of Google that protects your website from spam "
+"and abuse. <a \n"
+"href=\"https://www.google.com/recaptcha/admin#list\" target=\"_blank\"> Get "
+"your API Keys</a>."
+msgstr ""
+
+#: admin/views/class-testimonial-pro-settings.php:190
+msgid "Site key"
+msgstr ""
+
+#: admin/views/class-testimonial-pro-settings.php:191
+msgid "Set Site key."
+msgstr ""
+
+#: admin/views/class-testimonial-pro-settings.php:196
+msgid "Secret key"
+msgstr ""
+
+#: admin/views/class-testimonial-pro-settings.php:197
+msgid "Set Secret key."
+msgstr ""
+
+#: admin/views/class-testimonial-pro-settings.php:210
+#: admin/views/class-testimonial-pro-settings.php:221
+msgid "Custom CSS"
+msgstr ""
+
+#: admin/views/class-testimonial-pro-settings.php:222
+msgid "Write your custom CSS."
+msgstr ""
+
+#: admin/views/tp-metabox/classes/metabox.class.php:213 testimonial-pro.php:344
+#: testimonial-pro.php:362
+msgid "Shortcode"
+msgstr ""
+
+#: admin/views/tp-metabox/classes/metabox.class.php:216
+msgid "Copy and paste this shortcode into your posts or pages:"
+msgstr ""
+
+#: admin/views/tp-metabox/classes/metabox.class.php:227
+msgid "Template Include"
+msgstr ""
+
+#: admin/views/tp-metabox/classes/metabox.class.php:230
+msgid "Paste the PHP code into your template file:"
+msgstr ""
+
+#: admin/views/tp-metabox/classes/metabox.class.php:293
+#: admin/views/tp-metabox/classes/options.class.php:653
+msgid "No option provided by developer."
+msgstr ""
+
+#: admin/views/tp-metabox/classes/metabox.class.php:311
+msgid "Restore"
+msgstr ""
+
+#: admin/views/tp-metabox/classes/metabox.class.php:312
+msgid "update post for restore "
+msgstr ""
+
+#: admin/views/tp-metabox/classes/metabox.class.php:312
+msgid "Cancel"
+msgstr ""
+
+#: admin/views/tp-metabox/classes/options.class.php:251
+msgid "Error while saving."
+msgstr ""
+
+#: admin/views/tp-metabox/classes/options.class.php:300
+msgid "Success. Imported backup options."
+msgstr ""
+
+#: admin/views/tp-metabox/classes/options.class.php:310
+msgid "Default options restored."
+msgstr ""
+
+#: admin/views/tp-metabox/classes/options.class.php:323
+msgid "Default options restored for only this section."
+msgstr ""
+
+#: admin/views/tp-metabox/classes/options.class.php:378
+msgid "Settings saved."
+msgstr ""
+
+#: admin/views/tp-metabox/classes/options.class.php:555
+msgid "show all options"
+msgstr ""
+
+#: admin/views/tp-metabox/classes/options.class.php:557
+msgid "Search option(s)"
+msgstr ""
+
+#: admin/views/tp-metabox/classes/options.class.php:560
+#: admin/views/tp-metabox/classes/options.class.php:677
+msgid "Save"
+msgstr ""
+
+#: admin/views/tp-metabox/classes/options.class.php:560
+#: admin/views/tp-metabox/classes/options.class.php:677
+msgid "Saving..."
+msgstr ""
+
+#: admin/views/tp-metabox/classes/options.class.php:561
+#: admin/views/tp-metabox/classes/options.class.php:678
+msgid "Reset Section"
+msgstr ""
+
+#: admin/views/tp-metabox/classes/options.class.php:561
+#: admin/views/tp-metabox/classes/options.class.php:678
+msgid "Are you sure to reset this section options?"
+msgstr ""
+
+#: admin/views/tp-metabox/classes/options.class.php:562
+#: admin/views/tp-metabox/classes/options.class.php:679
+#: admin/views/tp-metabox/fields/backup/backup.php:34
+msgid "Reset All"
+msgstr ""
+
+#: admin/views/tp-metabox/classes/options.class.php:562
+#: admin/views/tp-metabox/classes/options.class.php:679
+msgid "Are you sure to reset all options?"
+msgstr ""
+
+#: admin/views/tp-metabox/classes/setup.class.php:385
+msgid "Are you sure?"
+msgstr ""
+
+#: admin/views/tp-metabox/classes/setup.class.php:386
+msgid "Restoring options."
+msgstr ""
+
+#: admin/views/tp-metabox/classes/setup.class.php:387
+msgid "Importing options."
+msgstr ""
+
+#: admin/views/tp-metabox/classes/setup.class.php:390
+#, php-format
+msgid "Please enter %s or more characters"
+msgstr ""
+
+#: admin/views/tp-metabox/classes/setup.class.php:391
+msgid "Searching..."
+msgstr ""
+
+#: admin/views/tp-metabox/classes/setup.class.php:392
+msgid "No results match"
+msgstr ""
+
+#: admin/views/tp-metabox/classes/setup.class.php:430
+#, php-format
+msgid "Ooops! This field type (%s) can not be used here, yet."
+msgstr ""
+
+#: admin/views/tp-metabox/classes/setup.class.php:493
+msgid "This field class is not available!"
+msgstr ""
+
+#: admin/views/tp-metabox/classes/setup.class.php:496
+msgid "This type is not found!"
+msgstr ""
+
+#: admin/views/tp-metabox/classes/shortcoder.class.php:242
+msgid "Add one more"
+msgstr ""
+
+#: admin/views/tp-metabox/classes/shortcoder.class.php:279
+#: admin/views/tp-metabox/functions/actions.php:43
+#: admin/views/tp-metabox/functions/actions.php:103
+#: admin/views/tp-metabox/functions/actions.php:125
+#: admin/views/tp-metabox/functions/actions.php:160
+msgid "Error: Nonce verification has failed. Please try again."
+msgstr ""
+
+#: admin/views/tp-metabox/fields/background/background.php:34
+msgid "No background selected"
+msgstr ""
+
+#: admin/views/tp-metabox/fields/background/background.php:62
+#: admin/views/tp-metabox/fields/date/date.php:31
+msgid "From"
+msgstr ""
+
+#: admin/views/tp-metabox/fields/background/background.php:79
+#: admin/views/tp-metabox/fields/date/date.php:32
+msgid "To"
+msgstr ""
+
+#: admin/views/tp-metabox/fields/background/background.php:102
+msgid "Gradient Direction"
+msgstr ""
+
+#: admin/views/tp-metabox/fields/background/background.php:103
+msgid "&#8659; top to bottom"
+msgstr ""
+
+#: admin/views/tp-metabox/fields/background/background.php:104
+msgid "&#8658; left to right"
+msgstr ""
+
+#: admin/views/tp-metabox/fields/background/background.php:105
+msgid "&#8664; corner top to right"
+msgstr ""
+
+#: admin/views/tp-metabox/fields/background/background.php:106
+msgid "&#8665; corner top to left"
+msgstr ""
+
+#: admin/views/tp-metabox/fields/background/background.php:145
+msgid "Background Position"
+msgstr ""
+
+#: admin/views/tp-metabox/fields/background/background.php:147
+msgid "Left Center"
+msgstr ""
+
+#: admin/views/tp-metabox/fields/background/background.php:149
+msgid "Center Top"
+msgstr ""
+
+#: admin/views/tp-metabox/fields/background/background.php:150
+msgid "Center Center"
+msgstr ""
+
+#: admin/views/tp-metabox/fields/background/background.php:151
+msgid "Center Bottom"
+msgstr ""
+
+#: admin/views/tp-metabox/fields/background/background.php:153
+msgid "Right Center"
+msgstr ""
+
+#: admin/views/tp-metabox/fields/background/background.php:171
+msgid "Background Repeat"
+msgstr ""
+
+#: admin/views/tp-metabox/fields/background/background.php:172
+msgid "Repeat"
+msgstr ""
+
+#: admin/views/tp-metabox/fields/background/background.php:173
+msgid "No Repeat"
+msgstr ""
+
+#: admin/views/tp-metabox/fields/background/background.php:174
+msgid "Repeat Horizontally"
+msgstr ""
+
+#: admin/views/tp-metabox/fields/background/background.php:175
+msgid "Repeat Vertically"
+msgstr ""
+
+#: admin/views/tp-metabox/fields/background/background.php:192
+msgid "Background Attachment"
+msgstr ""
+
+#: admin/views/tp-metabox/fields/background/background.php:193
+msgid "Scroll"
+msgstr ""
+
+#: admin/views/tp-metabox/fields/background/background.php:194
+msgid "Fixed"
+msgstr ""
+
+#: admin/views/tp-metabox/fields/background/background.php:211
+msgid "Background Size"
+msgstr ""
+
+#: admin/views/tp-metabox/fields/background/background.php:212
+msgid "Cover"
+msgstr ""
+
+#: admin/views/tp-metabox/fields/background/background.php:213
+msgid "Contain"
+msgstr ""
+
+#: admin/views/tp-metabox/fields/background/background.php:230
+msgid "Background Origin"
+msgstr ""
+
+#: admin/views/tp-metabox/fields/background/background.php:231
+#: admin/views/tp-metabox/fields/background/background.php:252
+msgid "Padding Box"
+msgstr ""
+
+#: admin/views/tp-metabox/fields/background/background.php:232
+#: admin/views/tp-metabox/fields/background/background.php:251
+msgid "Border Box"
+msgstr ""
+
+#: admin/views/tp-metabox/fields/background/background.php:233
+#: admin/views/tp-metabox/fields/background/background.php:253
+msgid "Content Box"
+msgstr ""
+
+#: admin/views/tp-metabox/fields/background/background.php:250
+msgid "Background Clip"
+msgstr ""
+
+#: admin/views/tp-metabox/fields/background/background.php:270
+msgid "Background Blend Mode"
+msgstr ""
+
+#: admin/views/tp-metabox/fields/background/background.php:271
+#: admin/views/tp-metabox/fields/link_color/link_color.php:36
+#: admin/views/tp-metabox/fields/typography/typography.php:181
+msgid "Normal"
+msgstr ""
+
+#: admin/views/tp-metabox/fields/background/background.php:272
+msgid "Multiply"
+msgstr ""
+
+#: admin/views/tp-metabox/fields/background/background.php:273
+msgid "Screen"
+msgstr ""
+
+#: admin/views/tp-metabox/fields/background/background.php:274
+msgid "Overlay"
+msgstr ""
+
+#: admin/views/tp-metabox/fields/background/background.php:275
+msgid "Darken"
+msgstr ""
+
+#: admin/views/tp-metabox/fields/background/background.php:276
+msgid "Lighten"
+msgstr ""
+
+#: admin/views/tp-metabox/fields/background/background.php:277
+msgid "Color Dodge"
+msgstr ""
+
+#: admin/views/tp-metabox/fields/background/background.php:278
+msgid "Saturation"
+msgstr ""
+
+#: admin/views/tp-metabox/fields/background/background.php:280
+msgid "Luminosity"
+msgstr ""
+
+#: admin/views/tp-metabox/fields/backup/backup.php:26
+msgid "Import"
+msgstr ""
+
+#: admin/views/tp-metabox/fields/backup/backup.php:27
+msgid "copy-paste your backup string here"
+msgstr ""
+
+#: admin/views/tp-metabox/fields/backup/backup.php:31
+msgid "Export and Download Backup"
+msgstr ""
+
+#: admin/views/tp-metabox/fields/backup/backup.php:35
+msgid "Please be sure for reset all of options."
+msgstr ""
+
+#: admin/views/tp-metabox/fields/border/border.php:25
+#: admin/views/tp-metabox/fields/spacing/spacing.php:25
+msgid "top"
+msgstr ""
+
+#: admin/views/tp-metabox/fields/border/border.php:26
+#: admin/views/tp-metabox/fields/spacing/spacing.php:26
+msgid "right"
+msgstr ""
+
+#: admin/views/tp-metabox/fields/border/border.php:27
+#: admin/views/tp-metabox/fields/spacing/spacing.php:27
+msgid "bottom"
+msgstr ""
+
+#: admin/views/tp-metabox/fields/border/border.php:28
+#: admin/views/tp-metabox/fields/spacing/spacing.php:28
+msgid "left"
+msgstr ""
+
+#: admin/views/tp-metabox/fields/border/border.php:29
+#: admin/views/tp-metabox/fields/spacing/spacing.php:29
+msgid "all"
+msgstr ""
+
+#: admin/views/tp-metabox/fields/border/border.php:53
+#: admin/views/tp-metabox/fields/typography/typography.php:209
+msgid "Solid"
+msgstr ""
+
+#: admin/views/tp-metabox/fields/border/border.php:54
+#: admin/views/tp-metabox/fields/typography/typography.php:212
+msgid "Dashed"
+msgstr ""
+
+#: admin/views/tp-metabox/fields/border/border.php:55
+#: admin/views/tp-metabox/fields/typography/typography.php:211
+msgid "Dotted"
+msgstr ""
+
+#: admin/views/tp-metabox/fields/border/border.php:56
+#: admin/views/tp-metabox/fields/typography/typography.php:210
+msgid "Double"
+msgstr ""
+
+#: admin/views/tp-metabox/fields/border/border.php:57
+msgid "Inset"
+msgstr ""
+
+#: admin/views/tp-metabox/fields/border/border.php:58
+msgid "Outset"
+msgstr ""
+
+#: admin/views/tp-metabox/fields/border/border.php:59
+msgid "Groove"
+msgstr ""
+
+#: admin/views/tp-metabox/fields/border/border.php:60
+msgid "ridge"
+msgstr ""
+
+#: admin/views/tp-metabox/fields/checkbox/checkbox.php:63
+#: admin/views/tp-metabox/fields/radio/radio.php:62
+#: admin/views/tp-metabox/fields/rating/rating.php:43
+#: admin/views/tp-metabox/fields/select/select.php:112
+msgid "No data provided for this option type."
+msgstr ""
+
+#: admin/views/tp-metabox/fields/column/column.php:26
+msgid "Large Desktop"
+msgstr ""
+
+#: admin/views/tp-metabox/fields/column/column.php:27
+msgid "Desktop"
+msgstr ""
+
+#: admin/views/tp-metabox/fields/column/column.php:28
+msgid "Laptop"
+msgstr ""
+
+#: admin/views/tp-metabox/fields/column/column.php:29
+msgid "Tablet"
+msgstr ""
+
+#: admin/views/tp-metabox/fields/column/column.php:30
+msgid "Mobile"
+msgstr ""
+
+#: admin/views/tp-metabox/fields/custom_size/custom_size.php:24
+#: admin/views/tp-metabox/fields/dimensions/dimensions.php:22
+msgid "width"
+msgstr ""
+
+#: admin/views/tp-metabox/fields/custom_size/custom_size.php:25
+#: admin/views/tp-metabox/fields/dimensions/dimensions.php:23
+msgid "height"
+msgstr ""
+
+#: admin/views/tp-metabox/fields/gallery/gallery.php:20
+msgid "Add Gallery"
+msgstr ""
+
+#: admin/views/tp-metabox/fields/gallery/gallery.php:21
+msgid "Edit Gallery"
+msgstr ""
+
+#: admin/views/tp-metabox/fields/gallery/gallery.php:22
+msgid "Clear"
+msgstr ""
+
+#: admin/views/tp-metabox/fields/group/group.php:23 class/form.php:57
+#: class/shortcode.php:57
+msgid "Add New"
+msgstr ""
+
+#: admin/views/tp-metabox/fields/group/group.php:35
+#: admin/views/tp-metabox/fields/repeater/repeater.php:31
+msgid "Error: Nested field id can not be same with another nested field id."
+msgstr ""
+
+#: admin/views/tp-metabox/fields/group/group.php:46
+#: admin/views/tp-metabox/fields/group/group.php:86
+#: admin/views/tp-metabox/fields/repeater/repeater.php:54
+#: admin/views/tp-metabox/fields/repeater/repeater.php:87
+msgid "Are you sure to delete this item?"
+msgstr ""
+
+#: admin/views/tp-metabox/fields/group/group.php:121
+#: admin/views/tp-metabox/fields/repeater/repeater.php:101
+msgid "You can not add more than"
+msgstr ""
+
+#: admin/views/tp-metabox/fields/group/group.php:122
+#: admin/views/tp-metabox/fields/repeater/repeater.php:102
+msgid "You can not remove less than"
+msgstr ""
+
+#: admin/views/tp-metabox/fields/image_sizes/image_sizes.php:57
+msgid "Original uploaded image"
+msgstr ""
+
+#: admin/views/tp-metabox/fields/image_sizes/image_sizes.php:58
+msgid "Set custom size"
+msgstr ""
+
+#: admin/views/tp-metabox/fields/image_sizes/image_sizes.php:104
+msgid "No image sizes found."
+msgstr ""
+
+#: admin/views/tp-metabox/fields/link_color/link_color.php:37
+msgid "Hover"
+msgstr ""
+
+#: admin/views/tp-metabox/fields/link_color/link_color.php:38
+msgid "Active"
+msgstr ""
+
+#: admin/views/tp-metabox/fields/link_color/link_color.php:39
+msgid "Visited"
+msgstr ""
+
+#: admin/views/tp-metabox/fields/link_color/link_color.php:40
+msgid "Focus"
+msgstr ""
+
+#: admin/views/tp-metabox/fields/media/media.php:23
+#: admin/views/tp-metabox/fields/upload/upload.php:21
+msgid "Upload"
+msgstr ""
+
+#: admin/views/tp-metabox/fields/media/media.php:24
+#: admin/views/tp-metabox/fields/upload/upload.php:22
+msgid "Remove"
+msgstr ""
+
+#: admin/views/tp-metabox/fields/media/media.php:57
+msgid "No media selected"
+msgstr ""
+
+#: admin/views/tp-metabox/fields/sorter/sorter.php:21
+msgid "Enabled"
+msgstr ""
+
+#: admin/views/tp-metabox/fields/sorter/sorter.php:22
+msgid "Disabled"
+msgstr ""
+
+#: admin/views/tp-metabox/fields/textarea/textarea.php:37
+msgid "Add Shortcode"
+msgstr ""
+
+#: admin/views/tp-metabox/fields/typography/typography.php:91
+msgid "Font Family"
+msgstr ""
+
+#: admin/views/tp-metabox/fields/typography/typography.php:92
+msgid "Select a font"
+msgstr ""
+
+#: admin/views/tp-metabox/fields/typography/typography.php:100
+msgid "Backup Font Family"
+msgstr ""
+
+#: admin/views/tp-metabox/fields/typography/typography.php:114
+#: admin/views/tp-metabox/fields/typography/typography.php:127
+#: admin/views/tp-metabox/fields/typography/typography.php:140
+#: admin/views/tp-metabox/fields/typography/typography.php:155
+#: admin/views/tp-metabox/fields/typography/typography.php:171
+#: admin/views/tp-metabox/fields/typography/typography.php:184
+#: admin/views/tp-metabox/fields/typography/typography.php:198
+#: admin/views/tp-metabox/fields/typography/typography.php:216
+msgid "Default"
+msgstr ""
+
+#: admin/views/tp-metabox/fields/typography/typography.php:125
+msgid "Font Style"
+msgstr ""
+
+#: admin/views/tp-metabox/fields/typography/typography.php:139
+#: admin/views/tp-metabox/fields/typography/typography.php:140
+msgid "Load Extra Styles"
+msgstr ""
+
+#: admin/views/tp-metabox/fields/typography/typography.php:153
+msgid "Subset"
+msgstr ""
+
+#: admin/views/tp-metabox/fields/typography/typography.php:163
+msgid "Text Align"
+msgstr ""
+
+#: admin/views/tp-metabox/fields/typography/typography.php:165
+msgid "Inherit"
+msgstr ""
+
+#: admin/views/tp-metabox/fields/typography/typography.php:169
+msgid "Justify"
+msgstr ""
+
+#: admin/views/tp-metabox/fields/typography/typography.php:170
+msgid "Initial"
+msgstr ""
+
+#: admin/views/tp-metabox/fields/typography/typography.php:179
+msgid "Font Variant"
+msgstr ""
+
+#: admin/views/tp-metabox/fields/typography/typography.php:182
+msgid "Small Caps"
+msgstr ""
+
+#: admin/views/tp-metabox/fields/typography/typography.php:183
+msgid "All Small Caps"
+msgstr ""
+
+#: admin/views/tp-metabox/fields/typography/typography.php:192
+msgid "Text Transform"
+msgstr ""
+
+#: admin/views/tp-metabox/fields/typography/typography.php:195
+msgid "Capitalize"
+msgstr ""
+
+#: admin/views/tp-metabox/fields/typography/typography.php:196
+msgid "Uppercase"
+msgstr ""
+
+#: admin/views/tp-metabox/fields/typography/typography.php:197
+msgid "Lowercase"
+msgstr ""
+
+#: admin/views/tp-metabox/fields/typography/typography.php:206
+msgid "Text Decoration"
+msgstr ""
+
+#: admin/views/tp-metabox/fields/typography/typography.php:213
+msgid "Wavy"
+msgstr ""
+
+#: admin/views/tp-metabox/fields/typography/typography.php:214
+msgid "Overline"
+msgstr ""
+
+#: admin/views/tp-metabox/fields/typography/typography.php:215
+msgid "Line-through"
+msgstr ""
+
+#: admin/views/tp-metabox/fields/typography/typography.php:228
+msgid "Font Size"
+msgstr ""
+
+#: admin/views/tp-metabox/fields/typography/typography.php:240
+msgid "Line Height"
+msgstr ""
+
+#: admin/views/tp-metabox/fields/typography/typography.php:252
+msgid "Letter Spacing"
+msgstr ""
+
+#: admin/views/tp-metabox/fields/typography/typography.php:264
+msgid "Word Spacing"
+msgstr ""
+
+#: admin/views/tp-metabox/fields/typography/typography.php:276
+msgid "Margin Top"
+msgstr ""
+
+#: admin/views/tp-metabox/fields/typography/typography.php:288
+msgid "Margin Right"
+msgstr ""
+
+#: admin/views/tp-metabox/fields/typography/typography.php:300
+msgid "Margin Bottom"
+msgstr ""
+
+#: admin/views/tp-metabox/fields/typography/typography.php:312
+msgid "Margin Left"
+msgstr ""
+
+#: admin/views/tp-metabox/fields/typography/typography.php:327
+msgid "Font Color"
+msgstr ""
+
+#: admin/views/tp-metabox/fields/typography/typography.php:338
+msgid "Custom Style"
+msgstr ""
+
+#: admin/views/tp-metabox/fields/typography/typography.php:405
+msgid "Custom Web Fonts"
+msgstr ""
+
+#: admin/views/tp-metabox/fields/typography/typography.php:411
+msgid "Safe Web Fonts"
+msgstr ""
+
+#: admin/views/tp-metabox/fields/typography/typography.php:431
+msgid "Google Web Fonts"
+msgstr ""
+
+#: admin/views/tp-metabox/functions/actions.php:35
+msgid "No data provided by developer"
+msgstr ""
+
+#: admin/views/tp-metabox/functions/actions.php:156
+msgid "You do not have required permissions to access."
+msgstr ""
+
+#: admin/views/tp-metabox/functions/actions.php:184
+msgid "Add Icon"
+msgstr ""
+
+#: admin/views/tp-metabox/functions/actions.php:188
+msgid "Search a Icon..."
+msgstr ""
+
+#: admin/views/tp-metabox/functions/validate.php:14
+#: admin/views/tp-metabox/functions/validate.php:86
+msgid "Please write a valid email address!"
+msgstr ""
+
+#: admin/views/tp-metabox/functions/validate.php:32
+#: admin/views/tp-metabox/functions/validate.php:106
+msgid "Please write a numeric data!"
+msgstr ""
+
+#: admin/views/tp-metabox/functions/validate.php:50
+#: admin/views/tp-metabox/functions/validate.php:126
+msgid "Error! This field is required!"
+msgstr ""
+
+#: admin/views/tp-metabox/functions/validate.php:68
+#: admin/views/tp-metabox/functions/validate.php:146
+msgid "Please write a valid url!"
+msgstr ""
+
+#: admin/views/vc-add-on.php:51 admin/views/widget.php:18
+msgid "Display Testimonials."
+msgstr ""
+
+#: admin/views/vc-add-on.php:52
+msgid "ShapedPlugin"
+msgstr ""
+
+#: admin/views/vc-add-on.php:56 admin/views/widget.php:65
+msgid "Testimonial Shortcodes:"
+msgstr ""
+
+#: admin/views/vc-add-on.php:57
+msgid "Select a shortcode."
+msgstr ""
+
+#: admin/views/widget.php:62
+msgid "Title:"
+msgstr ""
+
+#: admin/views/widget.php:81
+msgid "You did not generate any shortcode yet."
+msgstr ""
+
+#: admin/views/widget.php:82
+msgid "to generate a new shortcode now."
+msgstr ""
+
+#: admin/views/widget.php:83
+msgid "click here"
+msgstr ""
+
+#: class/form.php:42
+msgid "Forms"
+msgstr ""
+
+#: class/form.php:43
+msgid "Generate forms for Frontend."
+msgstr ""
+
+#: class/form.php:54
+msgid "Testimonial Forms"
+msgstr ""
+
+#: class/form.php:55
+msgid "Form"
+msgstr ""
+
+#: class/form.php:56
+msgid "Frontend Form"
+msgstr ""
+
+#: class/form.php:58
+msgid "Add New Form"
+msgstr ""
+
+#: class/form.php:59 class/shortcode.php:59 class/testimonial.php:65
+msgid "Edit"
+msgstr ""
+
+#: class/form.php:60
+msgid "Edit Form"
+msgstr ""
+
+#: class/form.php:61
+msgid "New Form"
+msgstr ""
+
+#: class/form.php:62 class/form.php:63
+msgid "View Form"
+msgstr ""
+
+#: class/form.php:64
+msgid "Search Forms"
+msgstr ""
+
+#: class/form.php:65
+msgid "No Form Found"
+msgstr ""
+
+#: class/form.php:66
+msgid "No Form Found in Trash"
+msgstr ""
+
+#: class/form.php:67
+msgid "Parent Form"
+msgstr ""
+
+#: class/help.php:47
+msgid "Testimonial Pro Help"
+msgstr ""
+
+#: class/help.php:47
+msgid "Help"
+msgstr ""
+
+#: class/help.php:56
+msgid "Welcome to Testimonial Pro!"
+msgstr ""
+
+#: class/help.php:59
+msgid ""
+"Thank you for installing Testimonial Pro! You're now running the most "
+"popular Testimonial Premium plugin. This video playlist will help you get "
+"started with the plugin."
+msgstr ""
+
+#: class/license.php:36
+msgid "Testimonial Pro License"
+msgstr ""
+
+#: class/license.php:36
+msgid "License"
+msgstr ""
+
+#: class/license.php:47
+msgid "Testimonial Pro License Activation"
+msgstr ""
+
+#: class/license.php:56
+msgid "License Key"
+msgstr ""
+
+#: class/license.php:62
+msgid "Enter your license key"
+msgstr ""
+
+#: class/license.php:70 class/license.php:81
+msgid "Activate License"
+msgstr ""
+
+#: class/license.php:74
+msgid "active"
+msgstr ""
+
+#: class/license.php:76
+msgid "Deactivate License"
+msgstr ""
+
+#: class/license.php:149 class/license.php:191 class/license.php:259
+msgid "An error occurred, please try again."
+msgstr ""
+
+#: class/license.php:161
+#, php-format
+msgid "Your license key expired on %s."
+msgstr ""
+
+#: class/license.php:167
+msgid "Your license key has been disabled."
+msgstr ""
+
+#: class/license.php:171
+msgid "Invalid license."
+msgstr ""
+
+#: class/license.php:176
+msgid "Your license is not active for this URL."
+msgstr ""
+
+#: class/license.php:181
+#, php-format
+msgid "This appears to be an invalid license key for %s."
+msgstr ""
+
+#: class/license.php:187
+msgid "Your license key has reached its activation limit."
+msgstr ""
+
+#: class/shortcode.php:42
+msgid "Generate Shortcode"
+msgstr ""
+
+#: class/shortcode.php:43
+msgid "Generate Shortcode for Testimonial"
+msgstr ""
+
+#: class/shortcode.php:54
+msgid "Testimonial Shortcodes"
+msgstr ""
+
+#: class/shortcode.php:55
+msgid "Testimonial Shortcode"
+msgstr ""
+
+#: class/shortcode.php:56 testimonial-pro.php:251
+msgid "Shortcode Generator"
+msgstr ""
+
+#: class/shortcode.php:58
+msgid "Add New Shortcode"
+msgstr ""
+
+#: class/shortcode.php:60
+msgid "Edit Shortcode"
+msgstr ""
+
+#: class/shortcode.php:61
+msgid "New Shortcode"
+msgstr ""
+
+#: class/shortcode.php:62 class/shortcode.php:63
+msgid "View Shortcode"
+msgstr ""
+
+#: class/shortcode.php:64
+msgid "Search Shortcode"
+msgstr ""
+
+#: class/shortcode.php:65
+msgid "No Testimonial Shortcode Found"
+msgstr ""
+
+#: class/shortcode.php:66
+msgid "No Testimonial Shortcode Found in Trash"
+msgstr ""
+
+#: class/shortcode.php:67
+msgid "Parent Testimonial Shortcode"
+msgstr ""
+
+#: class/taxonomy.php:51 class/testimonial.php:68
+msgid "Search "
+msgstr ""
+
+#: class/taxonomy.php:52 class/testimonial.php:59 class/testimonial.php:62
+msgid "All "
+msgstr ""
+
+#: class/taxonomy.php:53 class/taxonomy.php:54 class/testimonial.php:71
+msgid "Parent "
+msgstr ""
+
+#: class/taxonomy.php:55 class/testimonial.php:66
+msgid "Edit "
+msgstr ""
+
+#: class/taxonomy.php:56
+msgid "Update "
+msgstr ""
+
+#: class/taxonomy.php:57 class/testimonial.php:63 class/testimonial.php:64
+msgid "Add New "
+msgstr ""
+
+#: class/taxonomy.php:58 class/testimonial.php:67
+msgid "New "
+msgstr ""
+
+#: class/testimonial.php:69 class/testimonial.php:70
+msgid "No "
+msgstr ""
+
+#: class/testimonial.php:72
+msgid " Image"
+msgstr ""
+
+#: class/testimonial.php:73
+msgid "Set "
+msgstr ""
+
+#: class/testimonial.php:74
+msgid "Remove image"
+msgstr ""
+
+#: class/testimonial.php:75
+msgid "Use as image"
+msgstr ""
+
+#: class/testimonial.php:82
+msgid " pro"
+msgstr ""
+
+#: class/testimonial.php:83
+msgid " custom post type."
+msgstr ""
+
+#: class/updater.php:201
+#, php-format
+msgid ""
+"There is a new version of %1$s available. %2$sView version %3$s details%4$s."
+msgstr ""
+
+#: class/updater.php:209
+#, php-format
+msgid ""
+"There is a new version of %1$s available. %2$sView version %3$s details%4$s "
+"or %5$supdate now%6$s."
+msgstr ""
+
+#: class/updater.php:368
+msgid "You do not have permission to install plugin updates"
+msgstr ""
+
+#: class/updater.php:368
+msgid "Error"
+msgstr ""
+
+#: includes/functions.php:27 includes/functions.php:28
+msgid "Shortcode updated."
+msgstr ""
+
+#: includes/functions.php:29
+msgid "Shortcode published."
+msgstr ""
+
+#: includes/functions.php:30
+msgid "Shortcode submitted."
+msgstr ""
+
+#: includes/functions.php:31
+msgid "Shortcode draft updated."
+msgstr ""
+
+#: includes/functions.php:33 includes/functions.php:34
+msgid "Testimonial updated."
+msgstr ""
+
+#: includes/functions.php:35
+msgid "Testimonial published."
+msgstr ""
+
+#: includes/functions.php:36
+msgid "Testimonial submitted."
+msgstr ""
+
+#: includes/functions.php:37
+msgid "Testimonial draft updated."
+msgstr ""
+
+#: includes/functions.php:62
+#, php-format
+msgid ""
+"If you like <strong>Testimonial Pro</strong> please leave us a <a href=\"%s"
+"\" target=\"_blank\">&#9733;&#9733;&#9733;&#9733;&#9733;</a> rating. Your "
+"Review is very important to us as it helps us to grow more. "
+msgstr ""
+
+#: includes/functions.php:74
+msgid "No shortcode to duplicate has been supplied!"
+msgstr ""
+
+#: includes/functions.php:158
+msgid "Shortcode creation failed, could not find original post: "
+msgstr ""
+
+#: includes/functions.php:167
+msgid "Duplicate"
+msgstr ""
+
+#: includes/functions.php:181
+msgid "Facebook"
+msgstr ""
+
+#: includes/functions.php:185
+msgid "Twitter"
+msgstr ""
+
+#: includes/functions.php:189
+msgid "LinkedIn"
+msgstr ""
+
+#: includes/functions.php:193
+msgid "Skype"
+msgstr ""
+
+#: includes/functions.php:197
+msgid "Dropbox"
+msgstr ""
+
+#: includes/functions.php:201
+msgid "WordPress"
+msgstr ""
+
+#: includes/functions.php:205
+msgid "Vimeo"
+msgstr ""
+
+#: includes/functions.php:209
+msgid "SlideShare"
+msgstr ""
+
+#: includes/functions.php:213
+msgid "VK"
+msgstr ""
+
+#: includes/functions.php:217
+msgid "Tumblr"
+msgstr ""
+
+#: includes/functions.php:221
+msgid "Yahoo"
+msgstr ""
+
+#: includes/functions.php:225
+msgid "Pinterest"
+msgstr ""
+
+#: includes/functions.php:229
+msgid "Youtube"
+msgstr ""
+
+#: includes/functions.php:233
+msgid "StumbleUpon"
+msgstr ""
+
+#: includes/functions.php:237
+msgid "Reddit"
+msgstr ""
+
+#: includes/functions.php:241
+msgid "Quora"
+msgstr ""
+
+#: includes/functions.php:245
+msgid "Yelp"
+msgstr ""
+
+#: includes/functions.php:249
+msgid "Weibo"
+msgstr ""
+
+#: includes/functions.php:253
+msgid "ProductHunt"
+msgstr ""
+
+#: includes/functions.php:257
+msgid "HackerNews"
+msgstr ""
+
+#: includes/functions.php:261
+msgid "Soundcloud"
+msgstr ""
+
+#: includes/functions.php:265
+msgid "WhatsApp"
+msgstr ""
+
+#: includes/functions.php:269
+msgid "Medium"
+msgstr ""
+
+#: includes/functions.php:273
+msgid "Vine"
+msgstr ""
+
+#: includes/functions.php:277
+msgid "Slack"
+msgstr ""
+
+#: includes/functions.php:281
+msgid "Instagram"
+msgstr ""
+
+#: includes/functions.php:285
+msgid "Dribble"
+msgstr ""
+
+#: includes/functions.php:289
+msgid "Flickr"
+msgstr ""
+
+#: includes/functions.php:293
+msgid "FourSquare"
+msgstr ""
+
+#: includes/functions.php:297
+msgid "Behance"
+msgstr ""
+
+#: includes/functions.php:301
+msgid "SnapChat"
+msgstr ""
+
+#: includes/functions.php:305
+msgid "Github"
+msgstr ""
+
+#: includes/functions.php:309
+msgid "Bitbucket"
+msgstr ""
+
+#: includes/functions.php:313
+msgid "Stack Overflow"
+msgstr ""
+
+#: includes/functions.php:317
+msgid "Codepen"
+msgstr ""
+
+#: public/views/form.php:163
+msgid "Robot verification failed, please try again."
+msgstr ""
+
+#: public/views/form.php:166
+msgid "Please click on the reCAPTCHA box."
+msgstr ""
+
+#: public/views/form.php:307
+msgid "Our site is protected!"
+msgstr ""
+
+#: public/views/shortcoderender.php:763
+msgid "All"
+msgstr ""
+
+#: public/views/shortcoderender.php:909
+msgid "No testimonials found"
+msgstr ""
+
+#: testimonial-pro.php:250
+msgid "Add Testimonial"
+msgstr ""
+
+#: testimonial-pro.php:272
+msgid "Support"
+msgstr ""
+
+#: testimonial-pro.php:273
+msgid "Live Demo"
+msgstr ""
+
+#: testimonial-pro.php:361
+msgid "Status"
+msgstr ""
+
+#: testimonial-pro.php:436
+msgid "Name"
+msgstr ""
